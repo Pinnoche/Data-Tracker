@@ -12,6 +12,14 @@ function Feeder({ datas, filteredData }) {
                 </tr>
                 </thead>
                 <tbody>
+                    {data.feeder_11 && <tr className="tr">
+                        <th>FEEDER 11</th>
+                        <td>{data.feeder_11}</td>
+                    </tr>}
+                    {data.feeder_33 && <tr className="tr">
+                        <th>FEEDER 11</th>
+                        <td>{data.feeder_33}</td>
+                    </tr>}
                 <tr className="tr">
                     <th>METER_NO</th>
                     <td>{data.meter_no}</td>
