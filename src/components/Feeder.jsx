@@ -1,9 +1,9 @@
 
-function Feeder({ datas }) {
+function Feeder({ datas, filteredData }) {
         
   return (
     <div className="p-6">{
-        datas && <div>{datas.map((data, index) => (
+        datas && <div>{filteredData.map((data, index) => (
             <table key={index} className="rounded-sm shadow-sm bg-gray-300 w-full mb-4 text-center">
                 <thead>
                 <tr className="text-xl border-b-2 [&>th]:border-r-2">
