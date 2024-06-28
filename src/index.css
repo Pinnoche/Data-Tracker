@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .tr {
-    @apply text-sm border-b-2 [&>th]:border-r-2
+    @apply text-sm border-b-2 [&>th]:border-r-2 [&>td]:break-words 
 }

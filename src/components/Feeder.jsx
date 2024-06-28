@@ -17,26 +17,26 @@ function Feeder({ datas, filteredData }) {
                         <td>{data.feeder_11}</td>
                     </tr>}
                     {data.feeder_33 && <tr className="tr">
-                        <th>FEEDER 11</th>
+                        <th>FEEDER 33</th>
                         <td>{data.feeder_33}</td>
                     </tr>}
-                <tr className="tr">
+                {data.meter_no && <tr className="tr">
                     <th>METER_NO</th>
                     <td>{data.meter_no}</td>
-                </tr>
-                <tr className="tr">
+                </tr>}
+                {data.injection_substation && <tr className="tr">
                     <th>INJECTION SUBSTATION</th>
                     <td>{data.injection_substation}</td>
-                </tr>
-                <tr className="tr">
+                </tr>}
+                {data.transmission_station && <tr className="tr">
                     <th>TRANSMISSION STATION</th>
                     <td>{data.transmission_station}</td>
-                </tr>
+                </tr>}
                 <tr className="tr">
                     <th>VOLTAGE LEVEL</th>
                     <td>{data.voltage_level}</td>
                 </tr>
-                <tr className="tr">
+                 <tr className="tr">
                     <th>PHASE A VOLTAGE</th>
                     <td>{data.VA}V</td>
                 </tr>
@@ -63,6 +63,10 @@ function Feeder({ datas, filteredData }) {
                 <tr className="tr">
                     <th>POWER FACTOR</th>
                     <td>{data.PF}</td>
+                </tr>
+                <tr className="tr">
+                    <th>WATTS</th>
+                    <td>{data.MW}MW</td>
                 </tr>
                 </tbody>
             </table>
