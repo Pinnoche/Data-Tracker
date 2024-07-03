@@ -1,14 +1,35 @@
-
-function Feeder({ datas, filteredData }) {
-        
+import { useState } from "react";
+function Feeder({ datas, filteredTsData, gotoTs }) {
+    const [band, setBand] = useState(null);
+    const displayedBands = new Set();
+    const filteredBandData =  filteredTsData.filter(tsData => tsData.band === band);
   return (
-    <div className="p-6">{
-        datas && <div>{filteredData.map((data, index) => (
-            <table key={index} className="rounded-sm shadow-sm bg-gray-300 w-full mb-4 text-center">
+    <div className="p-6">
+        
+            
+        <div className='grid grid-cols-3 gap-4 cursor-pointer [&>p]:font-bold'>
+                {datas && filteredTsData.map((tsData, index) => {
+                if(!displayedBands.has(tsData.band)){
+                    displayedBands.add(tsData.band);
+                    return (
+                        <div key={index} onClick={() => setBand(tsData.band)}>
+                        <p>BAND {tsData.band} </p>
+                        </div>
+                    )
+                }
+                return null;
+                    
+                })}
+      </div>
+            
+       
+        {datas && <div>{filteredBandData.map((data, index) => (
+        <table key={index} className="rounded-sm shadow-sm bg-gray-300 w-full mb-4 text-center">
                 <thead>
                 <tr className="text-xl border-b-2 [&>th]:border-r-2">
                     <th>DATA</th>
                     <th>VALUES</th>
+                    <th className="text-green-400 cursor-default" onClick={() => gotoTs()}>Go Back</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -27,10 +48,6 @@ function Feeder({ datas, filteredData }) {
                 {data.injection_substation && <tr className="tr">
                     <th>INJECTION SUBSTATION</th>
                     <td>{data.injection_substation}</td>
-                </tr>}
-                {data.transmission_station && <tr className="tr">
-                    <th>TRANSMISSION STATION</th>
-                    <td>{data.transmission_station}</td>
                 </tr>}
                 <tr className="tr">
                     <th>VOLTAGE LEVEL</th>
@@ -70,9 +87,7 @@ function Feeder({ datas, filteredData }) {
                 </tr>
                 </tbody>
             </table>
-            
-        ))}</div>
-        }
+             ))}</div>}
     </div>
   )
 }
