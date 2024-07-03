@@ -45,7 +45,7 @@ function TS() {
         })}
       </div>}
       {feeder && <div>
-        <Feeder datas={datas} filteredTsData={filteredTsData} gotoTs={gotoTs} />
+        <Feeder filteredTsData={filteredTsData} gotoTs={gotoTs} />
       </div>}
     </div>
   )
