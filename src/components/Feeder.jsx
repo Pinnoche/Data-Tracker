@@ -18,9 +18,11 @@ function Feeder({ filteredTsData, gotoTs }) {
                 if(!displayedBands.has(tsData.band)){
                     displayedBands.add(tsData.band);
                     return (
-                        <div key={index} onClick={() => handleBand(tsData.band)}>
+                      <div className='w-full flex justify-center'>
+                        <div key={index} onClick={() => handleBand(tsData.band)} className='bg-gray-300 border-2 rounded-sm p-2 max-w-xs text-center font-semibold'>
                         <p>BAND {tsData.band} </p>
                         </div>
+                      </div>
                     )
                 }
                 return null;

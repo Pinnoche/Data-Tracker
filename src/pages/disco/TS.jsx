@@ -35,8 +35,8 @@ function TS() {
           if(!displayedTs.has(data.transmission_station)){
               displayedTs.add(data.transmission_station);
               return (
-                <div key={index} onClick={() => handleStation(data.transmission_station)} className='bg-gray-400 shadow-md rounded-sm cursor-pointer'>
-                 <p>TRANSMISSION STATION: {data.transmission_station} </p>
+                <div key={index} onClick={() => handleStation(data.transmission_station)} className='bg-gray-400 shadow-md rounded-sm cursor-pointer max-w-xs text-center'>
+                 <p>{data.transmission_station} </p>
                 </div>
               )
           }

@@ -3,12 +3,15 @@ import NavBar from './components/NavBar';
 import Home from './pages/Home';
 import AEDC from './pages/disco/AEDC';
 import TS from './pages/disco/TS';
+import Time from './components/Time';
 function App() {
   return (
     <Router>
       <div>
         <NavBar />
       </div>
+
+      <Time />
 
         <Routes>
             <Route path="/" element={<Home />} />
