@@ -51,15 +51,18 @@ function Home() {
           <div className="absolute left-[0.2rem] top-[7.85rem]">
             <Triangle />
           </div>
+          <h1 className="absolute top-[7.85rem] left-[2rem] font-bold text-2xl">R5</h1>
           <div className="absolute right-[0.78rem] top-[7.3rem]">
             <ShortVerticalLine />
           </div>
+          
           <div className="absolute right-[16rem] top-16">
             <ShortVerticalLine />
           </div>
           <div className="absolute right-[15.4rem] top-[7.85rem]">
             <Triangle />
           </div>
+          <h1 className="absolute top-[7.85rem] right-[13rem] font-bold text-2xl">R4</h1>
           <div className="absolute right-[16rem] top-[7.3rem]">
             <ShortVerticalLine />
           </div>
@@ -69,6 +72,7 @@ function Home() {
           <div className="absolute right-[0.2rem] top-[7.85rem]">
             <Triangle />
           </div>
+          <h1 className="absolute top-[7.85rem] right-[2rem] font-bold text-2xl max-w-14">NAF Valley</h1>
           <div className="absolute left-[0.78rem] top-[7.3rem]">
             <ShortVerticalLine />
           </div>
