@@ -7,18 +7,21 @@ import Time from './components/Time';
 function App() {
   return (
     <Router>
-      <div>
+      <div className=''>
         <NavBar />
       </div>
-
-      <Time />
-
+      <div className='px-8 min-h-screen bg-[#08122E]'>
         <Routes>
             <Route path="/" element={<Home />} />
             <Route path='/disco/aedc' element={<AEDC />} />
             <Route path='/disco/aedc/ts' element={<TS />} />
         </Routes>
-  
+
+      </div>
+        <div className='bg-[#08122E]'>
+          <Time />
+        </div>
+        
     </Router>
   );
 }
