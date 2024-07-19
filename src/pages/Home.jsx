@@ -40,7 +40,7 @@ function Home() {
       </div>
       <div className="bg-white w-full grid grid-cols-2 gap-14 p-8 ">
         <div className="relative w-full mb-[70%]">
-          <div className="absolute right-[15.3rem] bg-gray-400 text-center text-lg font-semibold">H3</div>
+          <div className="absolute right-[14.5rem] min-w-14 max-w-28 break-words bg-gray-400 text-center text-lg font-semibold">H3</div>
           <h3 className="absolute right-[7rem] max-w-36 text-center top-10 text-green-400 text-sm">DisCo Voltage Level AEDC 33kV</h3>
           <div className="absolute right-64">
             <LongVerticalLine />
@@ -162,7 +162,7 @@ function Home() {
 
         {/* Grid 2 */}
         <div className="relative w-full mb-[70%]">
-          <div className="absolute right-[15.3rem] bg-gray-400 text-center text-lg font-semibold">H3</div>
+          <div className="absolute right-[14.5rem] min-w-14 max-w-28 break-words bg-gray-400 text-center text-lg font-semibold">H3</div>
           <h3 className="absolute right-[7rem] max-w-36 text-center top-10 text-green-400 text-sm">DisCo Voltage Level AEDC 33kV</h3>
           <div className="absolute right-64">
             <LongVerticalLine />
@@ -283,7 +283,7 @@ function Home() {
         </div>
 {/* Grid 3 */}
 <div className="relative w-full mb-[70%]">
-          <div className="absolute right-[15.3rem] bg-gray-400 text-center text-lg font-semibold">H3</div>
+          <div className="absolute right-[14.5rem] min-w-14 max-w-28 break-words bg-gray-400 text-center text-lg font-semibold">H3</div>
           <h3 className="absolute right-[7rem] max-w-36 text-center top-10 text-green-400 text-sm">DisCo Voltage Level AEDC 33kV</h3>
           <div className="absolute right-64">
             <LongVerticalLine />
@@ -405,7 +405,7 @@ function Home() {
         {/* Grid 4 */}
 
         <div className="relative w-full mb-[70%]">
-          <div className="absolute right-[15.3rem] bg-gray-400 text-center text-lg font-semibold">H3</div>
+          <div className="absolute right-[14.5rem] min-w-14 max-w-28 break-words bg-gray-400 text-center text-lg font-semibold">H3</div>
           <h3 className="absolute right-[7rem] max-w-36 text-center top-10 text-green-400 text-sm">DisCo Voltage Level AEDC 33kV</h3>
           <div className="absolute right-64">
             <LongVerticalLine />
