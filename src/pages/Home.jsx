@@ -12,7 +12,7 @@ function Home() {
   return (
     <div className='mx-auto'>
       <header className="bg-[#222B44] text-white p-5 flex items-center">
-        <h1 className="mr-10 font-semibold">Muti-station View</h1>
+        <h1 className="mr-10 font-semibold underline cursor-pointer">Muti-station View</h1>
         <div className="flex ml-auto space-x-4">
         <label for="pizzaType" class="block font-semibold mr-2">Assets:</label>
         <select name="assets:" id="assets" className="px-4 py-1 bg-gray-700 rounded-md text-white focus:outline-none focus-ring-2 focus:ring-blue-500">
