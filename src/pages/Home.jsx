@@ -64,37 +64,37 @@ function Home() {
           <div className="absolute top-[14rem] left-8">
             <BigGreenBox />
           </div>
-          <div className="absolute top-[14rem] left-[8.8rem]">
+          <div className="absolute top-[14rem] left-[9.3rem]">
             <BigGreenBox />
           </div>
           <h3 className="absolute top-48 left-4 max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
-          <h3 className="absolute top-48 left-[7.8rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
+          <h3 className="absolute top-48 left-[8.5rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
           <div className="absolute top-40 left-4">
             <ShortVerticalLine />
           </div>
           <div className="absolute top-[14.5rem] left-1">
             <RectangularBox />
           </div>
-          <div className="absolute top-40 left-[7.7rem]">
+          <div className="absolute top-40 left-[8.35rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[14.5rem] left-[7rem]">
+          <div className="absolute top-[14.5rem] left-[7.6rem]">
             <RectangularBox />
           </div>
           <div className="absolute top-[14rem] left-4">
             <LongVerticalLine />
           </div>
-          <div className="absolute top-[14rem] left-[7.7rem]">
+          <div className="absolute top-[14rem] left-[8.35rem]">
             <LongVerticalLine />
           </div>
           <div className="absolute top-[19.7rem] left-[0.625rem]">
             <ArrowDown />
           </div>
-          <div className="absolute top-[19.7rem] left-[7.35rem]">
+          <div className="absolute top-[19.7rem] left-[8rem]">
             <ArrowDown />
           </div>
-          <h1 className="absolute top-[20rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_3A</h1>
-          <h1 className="absolute top-[20rem] left-24 font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_4A</h1>
+          <h1 className="absolute top-[20.2rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_3A</h1>
+          <h1 className="absolute top-[20.2rem] left-28 font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_4A</h1>
           
           <div className="absolute right-[16rem] top-16">
             <ShortVerticalLine />
@@ -106,7 +106,7 @@ function Home() {
           <div className="absolute right-[16rem] top-[7.3rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[10rem] right-[11rem] w-[20%]">
+          <div className="absolute top-[10rem] right-[13.5rem] w-[20%]">
             <HorizontalLine />
           </div>
           <div className="absolute top-[10rem] left-[16rem]">
@@ -123,7 +123,7 @@ function Home() {
           </div>
           <h1 className="absolute top-[19rem] left-[14.5rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R4_FD10</h1>
           <h3 className="absolute top-48 left-[16rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
-          <div className="absolute top-[14rem] left-[17rem]">
+          <div className="absolute top-[14rem] left-[17.1rem]">
             <BigGreenBox />
           </div>
 
@@ -140,16 +140,16 @@ function Home() {
           <div className="absolute top-[10rem] right-0 w-[20%]">
             <HorizontalLine />
           </div>
-          <div className="absolute top-[10rem] right-[6.6rem]">
+          <div className="absolute top-[10rem] right-[7.4rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[14.5rem] right-[5.9rem]">
+          <div className="absolute top-[14.5rem] right-[6.7rem]">
             <RectangularBox />
           </div>
-          <div className="absolute top-[14rem] right-[6.6rem]">
+          <div className="absolute top-[14rem] right-[7.4rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[18.5rem] right-[6.25rem]">
+          <div className="absolute top-[18.5rem] right-[7.05rem]">
             <ArrowDown />
           </div>
           <h1 className="absolute top-[19rem] right-[5rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_NAF VALLEY_FD2</h1>
@@ -186,37 +186,37 @@ function Home() {
           <div className="absolute top-[14rem] left-8">
             <BigGreenBox />
           </div>
-          <div className="absolute top-[14rem] left-[8.8rem]">
+          <div className="absolute top-[14rem] left-[9.3rem]">
             <BigGreenBox />
           </div>
           <h3 className="absolute top-48 left-4 max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
-          <h3 className="absolute top-48 left-[7.8rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
+          <h3 className="absolute top-48 left-[8.5rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
           <div className="absolute top-40 left-4">
             <ShortVerticalLine />
           </div>
           <div className="absolute top-[14.5rem] left-1">
             <RectangularBox />
           </div>
-          <div className="absolute top-40 left-[7.7rem]">
+          <div className="absolute top-40 left-[8.35rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[14.5rem] left-[7rem]">
+          <div className="absolute top-[14.5rem] left-[7.6rem]">
             <RectangularBox />
           </div>
           <div className="absolute top-[14rem] left-4">
             <LongVerticalLine />
           </div>
-          <div className="absolute top-[14rem] left-[7.7rem]">
+          <div className="absolute top-[14rem] left-[8.35rem]">
             <LongVerticalLine />
           </div>
           <div className="absolute top-[19.7rem] left-[0.625rem]">
             <ArrowDown />
           </div>
-          <div className="absolute top-[19.7rem] left-[7.35rem]">
+          <div className="absolute top-[19.7rem] left-[8rem]">
             <ArrowDown />
           </div>
-          <h1 className="absolute top-[20rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_3A</h1>
-          <h1 className="absolute top-[20rem] left-24 font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_4A</h1>
+          <h1 className="absolute top-[20.2rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_3A</h1>
+          <h1 className="absolute top-[20.2rem] left-28 font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_4A</h1>
           
           <div className="absolute right-[16rem] top-16">
             <ShortVerticalLine />
@@ -228,7 +228,7 @@ function Home() {
           <div className="absolute right-[16rem] top-[7.3rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[10rem] right-[11rem] w-[20%]">
+          <div className="absolute top-[10rem] right-[13.5rem] w-[20%]">
             <HorizontalLine />
           </div>
           <div className="absolute top-[10rem] left-[16rem]">
@@ -245,7 +245,7 @@ function Home() {
           </div>
           <h1 className="absolute top-[19rem] left-[14.5rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R4_FD10</h1>
           <h3 className="absolute top-48 left-[16rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
-          <div className="absolute top-[14rem] left-[17rem]">
+          <div className="absolute top-[14rem] left-[17.1rem]">
             <BigGreenBox />
           </div>
 
@@ -262,16 +262,16 @@ function Home() {
           <div className="absolute top-[10rem] right-0 w-[20%]">
             <HorizontalLine />
           </div>
-          <div className="absolute top-[10rem] right-[6.6rem]">
+          <div className="absolute top-[10rem] right-[7.4rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[14.5rem] right-[5.9rem]">
+          <div className="absolute top-[14.5rem] right-[6.7rem]">
             <RectangularBox />
           </div>
-          <div className="absolute top-[14rem] right-[6.6rem]">
+          <div className="absolute top-[14rem] right-[7.4rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[18.5rem] right-[6.25rem]">
+          <div className="absolute top-[18.5rem] right-[7.05rem]">
             <ArrowDown />
           </div>
           <h1 className="absolute top-[19rem] right-[5rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_NAF VALLEY_FD2</h1>
@@ -281,7 +281,6 @@ function Home() {
           </div>
           
         </div>
-
 {/* Grid 3 */}
 <div className="relative w-full mb-[70%]">
           <div className="absolute right-[15.3rem] bg-gray-400 text-center text-lg font-semibold">H3</div>
@@ -308,37 +307,37 @@ function Home() {
           <div className="absolute top-[14rem] left-8">
             <BigGreenBox />
           </div>
-          <div className="absolute top-[14rem] left-[8.8rem]">
+          <div className="absolute top-[14rem] left-[9.3rem]">
             <BigGreenBox />
           </div>
           <h3 className="absolute top-48 left-4 max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
-          <h3 className="absolute top-48 left-[7.8rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
+          <h3 className="absolute top-48 left-[8.5rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
           <div className="absolute top-40 left-4">
             <ShortVerticalLine />
           </div>
           <div className="absolute top-[14.5rem] left-1">
             <RectangularBox />
           </div>
-          <div className="absolute top-40 left-[7.7rem]">
+          <div className="absolute top-40 left-[8.35rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[14.5rem] left-[7rem]">
+          <div className="absolute top-[14.5rem] left-[7.6rem]">
             <RectangularBox />
           </div>
           <div className="absolute top-[14rem] left-4">
             <LongVerticalLine />
           </div>
-          <div className="absolute top-[14rem] left-[7.7rem]">
+          <div className="absolute top-[14rem] left-[8.35rem]">
             <LongVerticalLine />
           </div>
           <div className="absolute top-[19.7rem] left-[0.625rem]">
             <ArrowDown />
           </div>
-          <div className="absolute top-[19.7rem] left-[7.35rem]">
+          <div className="absolute top-[19.7rem] left-[8rem]">
             <ArrowDown />
           </div>
-          <h1 className="absolute top-[20rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_3A</h1>
-          <h1 className="absolute top-[20rem] left-24 font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_4A</h1>
+          <h1 className="absolute top-[20.2rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_3A</h1>
+          <h1 className="absolute top-[20.2rem] left-28 font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_4A</h1>
           
           <div className="absolute right-[16rem] top-16">
             <ShortVerticalLine />
@@ -350,7 +349,7 @@ function Home() {
           <div className="absolute right-[16rem] top-[7.3rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[10rem] right-[11rem] w-[20%]">
+          <div className="absolute top-[10rem] right-[13.5rem] w-[20%]">
             <HorizontalLine />
           </div>
           <div className="absolute top-[10rem] left-[16rem]">
@@ -367,7 +366,7 @@ function Home() {
           </div>
           <h1 className="absolute top-[19rem] left-[14.5rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R4_FD10</h1>
           <h3 className="absolute top-48 left-[16rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
-          <div className="absolute top-[14rem] left-[17rem]">
+          <div className="absolute top-[14rem] left-[17.1rem]">
             <BigGreenBox />
           </div>
 
@@ -384,16 +383,16 @@ function Home() {
           <div className="absolute top-[10rem] right-0 w-[20%]">
             <HorizontalLine />
           </div>
-          <div className="absolute top-[10rem] right-[6.6rem]">
+          <div className="absolute top-[10rem] right-[7.4rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[14.5rem] right-[5.9rem]">
+          <div className="absolute top-[14.5rem] right-[6.7rem]">
             <RectangularBox />
           </div>
-          <div className="absolute top-[14rem] right-[6.6rem]">
+          <div className="absolute top-[14rem] right-[7.4rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[18.5rem] right-[6.25rem]">
+          <div className="absolute top-[18.5rem] right-[7.05rem]">
             <ArrowDown />
           </div>
           <h1 className="absolute top-[19rem] right-[5rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_NAF VALLEY_FD2</h1>
@@ -403,7 +402,6 @@ function Home() {
           </div>
           
         </div>
-
         {/* Grid 4 */}
 
         <div className="relative w-full mb-[70%]">
@@ -431,37 +429,37 @@ function Home() {
           <div className="absolute top-[14rem] left-8">
             <BigGreenBox />
           </div>
-          <div className="absolute top-[14rem] left-[8.8rem]">
+          <div className="absolute top-[14rem] left-[9.3rem]">
             <BigGreenBox />
           </div>
           <h3 className="absolute top-48 left-4 max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
-          <h3 className="absolute top-48 left-[7.8rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
+          <h3 className="absolute top-48 left-[8.5rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
           <div className="absolute top-40 left-4">
             <ShortVerticalLine />
           </div>
           <div className="absolute top-[14.5rem] left-1">
             <RectangularBox />
           </div>
-          <div className="absolute top-40 left-[7.7rem]">
+          <div className="absolute top-40 left-[8.35rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[14.5rem] left-[7rem]">
+          <div className="absolute top-[14.5rem] left-[7.6rem]">
             <RectangularBox />
           </div>
           <div className="absolute top-[14rem] left-4">
             <LongVerticalLine />
           </div>
-          <div className="absolute top-[14rem] left-[7.7rem]">
+          <div className="absolute top-[14rem] left-[8.35rem]">
             <LongVerticalLine />
           </div>
           <div className="absolute top-[19.7rem] left-[0.625rem]">
             <ArrowDown />
           </div>
-          <div className="absolute top-[19.7rem] left-[7.35rem]">
+          <div className="absolute top-[19.7rem] left-[8rem]">
             <ArrowDown />
           </div>
-          <h1 className="absolute top-[20rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_3A</h1>
-          <h1 className="absolute top-[20rem] left-24 font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_4A</h1>
+          <h1 className="absolute top-[20.2rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_3A</h1>
+          <h1 className="absolute top-[20.2rem] left-28 font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R5_4A</h1>
           
           <div className="absolute right-[16rem] top-16">
             <ShortVerticalLine />
@@ -473,7 +471,7 @@ function Home() {
           <div className="absolute right-[16rem] top-[7.3rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[10rem] right-[11rem] w-[20%]">
+          <div className="absolute top-[10rem] right-[13.5rem] w-[20%]">
             <HorizontalLine />
           </div>
           <div className="absolute top-[10rem] left-[16rem]">
@@ -490,7 +488,7 @@ function Home() {
           </div>
           <h1 className="absolute top-[19rem] left-[14.5rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_R4_FD10</h1>
           <h3 className="absolute top-48 left-[16rem] max-w-24 break-words text-center text-green-400 text-xs">DisCo Voltage Level AEDC 11kV</h3>
-          <div className="absolute top-[14rem] left-[17rem]">
+          <div className="absolute top-[14rem] left-[17.1rem]">
             <BigGreenBox />
           </div>
 
@@ -507,16 +505,16 @@ function Home() {
           <div className="absolute top-[10rem] right-0 w-[20%]">
             <HorizontalLine />
           </div>
-          <div className="absolute top-[10rem] right-[6.6rem]">
+          <div className="absolute top-[10rem] right-[7.4rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[14.5rem] right-[5.9rem]">
+          <div className="absolute top-[14.5rem] right-[6.7rem]">
             <RectangularBox />
           </div>
-          <div className="absolute top-[14rem] right-[6.6rem]">
+          <div className="absolute top-[14rem] right-[7.4rem]">
             <ShortVerticalLine />
           </div>
-          <div className="absolute top-[18.5rem] right-[6.25rem]">
+          <div className="absolute top-[18.5rem] right-[7.05rem]">
             <ArrowDown />
           </div>
           <h1 className="absolute top-[19rem] right-[5rem] font-semibold max-w-[3rem] text-center text-sm break-words whitespace-normal">AT3_H3_NAF VALLEY_FD2</h1>
@@ -526,7 +524,7 @@ function Home() {
           </div>
           
         </div>
-
+        
       </div>
       
       {/* <Link to='/disco/aedc'>
