@@ -18,9 +18,9 @@ function Time() {
    
         
   return (
-    <div  className='flex justify-end pt-2'>
-        {currentTime &&<div className='text-black bg-white p-2 mr-2 font-semibold border-2 rounded-md max-w-xs text-center'>
-            {presentDay} : {currentTime}
+    <div className='flex justify-end pt-2'>
+        {currentTime &&<div className='text-white p-2 mr-2 font-semibold max-w-xs'>
+            {presentDay}  : {currentTime}
         </div>}
     </div>
   )
