@@ -6,9 +6,15 @@ import RectangularBox from "./RectangularBox";
 import ArrowDown from './ArrowDown';
 import BigGreenBox from "./BigGreenBox";
 
-function Diagram() {
+function Diagram({filteredTsData}) {
+  const feederList = filteredTsData.map( data => {
+    return data.feeder_11.split('_')[1]
+  } );
+   feederList.map()
+  const feeder33 = filteredTsData.filter( data => data.feeder_33 === feederList )
   return (
     <div className="relative w-full mb-[70%]">
+      
           <div className="absolute right-[14.5rem] min-w-14 max-w-28 break-words bg-gray-400 text-center text-lg font-semibold">H3</div>
           <h3 className="absolute right-[7rem] max-w-36 text-center top-10 text-green-400 text-sm">DisCo Voltage Level AEDC 33kV</h3>
           <div className="absolute right-64">

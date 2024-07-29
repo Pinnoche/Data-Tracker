@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import Feeder from '../../components/Feeder'
+// import Feeder from './Feeder'
+import Diagram from './Diagram';
 
 function TS() {
     const [ datas, setData ] = useState([]);
@@ -45,7 +46,8 @@ function TS() {
         })}
       </div>}
       {feeder && <div>
-        <Feeder filteredTsData={filteredTsData} gotoTs={gotoTs} />
+        {/* <Feeder filteredTsData={filteredTsData} gotoTs={gotoTs} /> */}
+        <Diagram filteredTsData={filteredTsData} gotoTs={gotoTs} />
       </div>}
     </div>
   )
