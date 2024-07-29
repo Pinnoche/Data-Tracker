@@ -7,11 +7,11 @@ import ArrowDown from './ArrowDown';
 import BigGreenBox from "./BigGreenBox";
 
 function Diagram({filteredTsData}) {
-  const feederList = filteredTsData.map( data => {
-    return data.feeder_11.split('_')[1]
-  } );
-   feederList.map()
-  const feeder33 = filteredTsData.filter( data => data.feeder_33 === feederList )
+  // const feederList = filteredTsData.map( data => {
+  //   return data.feeder_11.split('_')[1]
+  // } );
+  //  feederList.map()
+  // const feeder33 = filteredTsData.filter( data => data.feeder_33 === feederList )
   return (
     <div className="relative w-full mb-[70%]">
       
