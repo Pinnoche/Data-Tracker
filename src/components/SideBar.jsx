@@ -76,8 +76,8 @@ function SideBar({setDashboard}) {
     <p>Fact Sheet</p>
     </div>
   </div>
-  <div className="py-2 pl-2 border-none rounded-md hover:bg-gray-400 mb-2 flex items-center cursor-pointer">
-    <div onClick={() => handleAll()} className="flex items-center">
+  <div onClick={() => handleAll()} className="py-2 pl-2 border-none rounded-md hover:bg-gray-400 mb-2 flex items-center cursor-pointer">
+    <div className="flex items-center">
     {arrowDown &&<IoIosArrowDown className="mr-3" />}
     {arrowUp &&<IoIosArrowUp className="mr-3" />}
     <p>More</p>
