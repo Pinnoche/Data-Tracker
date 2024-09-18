@@ -1,19 +1,27 @@
-import Time from "./Time"
+import { useLocation } from 'react-router-dom'
 
-function NavBar() {
+
+function NavBar({ showSidebar } ) {
+  const location = useLocation();
+  const param = location.pathname;
+ 
   return (
-    <div className="">
-      <div className="bg-[#203266] text-white p-3 flex flex-row justify-between">
-      <h1 className="font-bold text-lg col-span-4">AEDC LIVE FEEDER FEED</h1>
-      <div className="flex [&>img]:mr-4">
-      {/* <img src="info-icon.png" alt="Info" width={25} className="overflow-hidden rounded hover:border-white hover:border-2 cursor-pointer" />
-      <img src="faq.png" alt="Faq" width={25} className="overflow-hidden rounded hover:border-white hover:border-2 cursor-pointer" />
-      <img src="settings.png" alt="Settings" width={25} className="overflow-hidden rounded hover:border-white hover:border-2 cursor-pointer"  /> */}
-       <Time />
+    
+      <div className="p-3 w-full bg-[#026487] text-white flex items-center gap-10">
+      
+      <div className="w-full flex items-center justify-between">
+        <h1 className="font-bold text-lg">DISCOS NETWORK FEED</h1>
+        <ul className="flex items-center gap-8">
+          <li className={`${param.startsWith('/') && "font-bold"}`}>Home</li>
+          <li className={`${param.startsWith('/signup') && "font-bold"}`}>Sign Up</li>
+          <li className={`${param.startsWith('/login') && "font-bold"}`}>Login</li>
+          <li>
+            <img src="/dark_mode.png" alt="Dark Mode" />
+          </li>
+          
+        </ul>
       </div>
     </div>
-    </div>
-    
   )
 }
 
