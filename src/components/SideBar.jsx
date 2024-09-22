@@ -1,45 +1,74 @@
 
-import { useState } from "react";
-import { IoMdMenu } from "react-icons/io";
-import { TbLivePhoto } from "react-icons/tb";
-import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import { MdOutlineDashboard } from "react-icons/md";
-import { HiOutlineBellAlert } from "react-icons/hi2";
-import { MdOutlineAutoGraph } from "react-icons/md";
-import { MdFactCheck } from "react-icons/md";
-import { IoIosArrowDown } from "react-icons/io";
-import { IoIosArrowUp } from "react-icons/io";
-import { IoSettingsOutline } from "react-icons/io5";
+// import { useState } from "react";
+import { useLocation } from "react-router-dom";
+
 
 function SideBar({ handleSideBar, showSideBar, setDashboard }) {
   
-  
-  const [live, setLive ] = useState(false);
-  const [more, setMore ] = useState(false);
-  const [arrowDown, setArrowDown ] = useState(true);
-  const [arrowUp, setArrowUp ] = useState(false);
-  const handleMore = () => {
-        setMore(!more);
+  const location = useLocation();
+  const param = location.pathname;
+  // const [live, setLive ] = useState(false);
+  // const [more, setMore ] = useState(false);
+  // const [arrowDown, setArrowDown ] = useState(true);
+  // const [arrowUp, setArrowUp ] = useState(false);
+
+  const sideBarList = [
+    {
+      name: 'live',
+      icon: '/videocam_icon.png',
+      alt: 'Live'
+    },
+
+    {
+      name: 'Dashboard',
+      icon: '/dashboard_icon.png',
+      alt: 'Dashboard'
+    },
+
+    {
+      name: 'Alerts',
+      icon: '/alert_icon.png',
+      alt: 'Alerts'
+    },
+    {
+      name: 'Settings',
+      icon: '/settings_icon.png',
+      alt: 'Settings'
+    },
+
+    {
+      name: 'Search',
+      icon: '/search_icon.png',
+      alt: 'Search'
     }
-    const handleArrow = () => {
-        setArrowDown(!arrowDown);
-        setArrowUp(!arrowUp);
-    }
-    const handleAll = () => {
-        handleArrow();
-        handleMore();
-    }
+  ]
+  // const handleMore = () => {
+  //       setMore(!more);
+  //   }
+  //   const handleArrow = () => {
+  //       setArrowDown(!arrowDown);
+  //       setArrowUp(!arrowUp);
+  //   }
+  //   const handleAll = () => {
+  //       handleArrow();
+  //       handleMore();
+  //   }
   return (
-    <div className={` ${showSideBar && "m-0"}`}>
-        <div onClick={handleSideBar} className={`cursor-pointer text-white ${showSideBar && "hidden"}`}>
-            <IoMdMenu />
-        </div>
-        {showSideBar && <div className="w-[15%] fixed min-h-screen py-1 px-3 shadow-white bg-gray-100 text-[#026487]">
-          <div className={`flex items-baseline gap-4 cursor-pointer ${showSideBar ? "block" : "hidden"}`} onClick={handleSideBar} >
-            <p className="text-lg font-semibold">X</p>
-            <p className="font-semibold">Close</p>
+    <div className={`${showSideBar && "m-0"}`}>
+        
+        {showSideBar && <div className={`w-[15%] fixed min-h-screen py-1 px-3 shadow-white ${param === '/dashboard' ? 'bg-[#026487] text-white' : 'bg-gray-100 text-[#026487]'}`}>
+          <div className={`flex items-center mx-3 my-2 gap-4 cursor-pointer ${showSideBar ? "block" : "hidden"}`} onClick={handleSideBar} >
+            <h1 className="text-base font-bold">X</h1>
+            <p className="font-bold">Close</p>
           </div>
-        {live && <div onMouseLeave={() => setLive(false)} className="absolute top-9 left-48 w-full px-3 py-1 rounded-sm bg-white shadow-white shadow-sm border-2 border-white">
+
+          {sideBarList.map( (data, index) => (
+             <div key={index} className="w-full px-2 py-3 flex items-center gap-4 space-y-2 cursor-pointer">
+                <img src={data.icon} alt={data.alt} />
+                {data.name}
+             </div>
+          ))}
+        {/* {live && <div onMouseLeave={() => setLive(false)} className="absolute top-9 left-48 w-full px-3 py-1 rounded-sm bg-white shadow-white shadow-sm border-2 border-white">
           <div className="bg-gray-300 py-2 px-4 rounded-md mb-1 cursor-pointer">Everywhere</div>
           <div className="hover:bg-gray-200 py-2 px-4 rounded-md mb-1 cursor-pointer">AEDC</div>
           <div className="hover:bg-gray-200 py-2 px-4 rounded-md mb-1 cursor-pointer">IEDC</div>
@@ -48,7 +77,6 @@ function SideBar({ handleSideBar, showSideBar, setDashboard }) {
           <div className="hover:bg-gray-200 py-2 px-4 rounded-md mb-1 cursor-pointer">AEDC</div>
           <div className="hover:bg-gray-200 py-2 px-4 rounded-md mb-1 cursor-pointer">AEDC</div>
         </div>}
-      <div className="mb-1">GridStatus</div>
       <div onMouseEnter={ () => setLive(false)} className="p-1">
       </div>
       <div onMouseEnter={ () => setLive(true)} className="py-2 pl-2 border-none rounded-md hover:bg-gray-400 flex items-center justify-between cursor-pointer">
@@ -113,7 +141,7 @@ function SideBar({ handleSideBar, showSideBar, setDashboard }) {
       </div>
       <div className="py-2 pl-2 border-none rounded-md hover:bg-gray-400 mb-2 flex items-center cursor-pointer">
         <p>All Apps</p>
-      </div>
+      </div> */}
       
     </div>}
   </div>

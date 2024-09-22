@@ -1,9 +1,9 @@
-import Layout from './Layout/Layout'
+import Layout from "./Layout/layout";
 function App() {
-  
-  
   return (
-   <Layout />
+    <div className="font-mont">
+      <Layout />
+    </div>
   );
 }
 
