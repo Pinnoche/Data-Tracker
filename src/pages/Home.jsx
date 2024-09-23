@@ -18,7 +18,7 @@ function Home() {
           <p>Alert</p>
         </div>
         <div>
-          <img src="/videocam.png" alt="Live Feed" />x
+          <img src="/videocam.png" alt="Live Feed" />
           <p>Live Feed</p>
         </div>
         <div>
