@@ -5,6 +5,8 @@ import Home from '../pages/Home'
 import Dashboard from '../pages/Dashboard';
 import TS from '../pages/disco/TS';
 import SideBar from '../components/SideBar'
+import SubStation from '../pages/disco/SubStation';
+// import Diagram from '../components/Diagram';
 
 function Layout() {
   const [showSideBar, setShowSideBar ] = useState(false);
@@ -22,6 +24,8 @@ function Layout() {
                   <Route path="/" element={<Home />} />
                   <Route path='/dashboard' element={<Dashboard />} />
                   <Route path='/disco/ts' element={<TS />} />
+                  <Route path='/substation' element={<SubStation/>} />
+                  {/* <Route path='./diagram' element={<Diagram />} /> */}
               </Routes>
             </div>
         </div>

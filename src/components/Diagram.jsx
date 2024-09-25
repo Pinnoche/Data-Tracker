@@ -137,4 +137,4 @@ function Diagram({filteredTsData}) {
   )
 }
 
-export default Diagram
+export default Diagram;
