@@ -3,7 +3,7 @@ import React from 'react';
 // Create a SubStation component that accepts dynamic data as props
 function Sub({ stations }) {
   return (
-    <div className='w-max'>
+    <div className='w-max mb-24'>
       {/* Top-level name */}
       <div className='name h-10 w-20 shadow-lg p-1 mx-auto font-semibold text-xs text-center'>{stations[0]}</div>
 
@@ -17,12 +17,12 @@ function Sub({ stations }) {
           <div className='h-12 border-l border-black'></div>
           <div className='h-12 border-l border-black'></div>
         </div>
-        <div className='flex justify-between max-w-96'>
+        {/* <div className='flex justify-between max-w-96'>
           <div className='border-2 rounded-3xl border-black'></div>
           <div className='border-2 rounded-3xl border-black'></div>
           <div className='border-2 rounded-3xl border-black'></div>
           <div className='border-2 rounded-3xl border-black'></div>
-        </div>
+        </div> */}
       </div>
 
       {/* Bottom Section where dynamic data is mapped */}

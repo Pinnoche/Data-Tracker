@@ -8,19 +8,19 @@ function SubStation() {
   return (
     <div>
         <div>
-            <div className='max-w-md p-1 rounded-md font-bold text-center my-2 text-sm mx-auto text-[#026487] bg-white'>
+            <div className='max-w-md p-1 rounded-md font-bold text-center my-2 text-sm mx-auto shadow-lg text-white '>
                 MULTI-STATION VIEW
             </div>
-            <div className='flex justify-evenly rounded-md text-center p-1 my-2 max-w-xl font-bold text-sm mx-auto bg-gray-500 text-[#026487]'>
+            <div className='flex justify-evenly rounded-md text-center p-1 mb-20 max-w-md font-bold text-sm mx-auto shadow-lg text-white'>
                 <p>T1, 100MVA</p>
                 <p>T1, 100MVA</p>
                 <p>T1, 100MVA</p>
             </div>
         </div>
-        <div className='flex justify-between mx-24'>
-
-        <Sub stations={stations} />
-        <Sub stations={stationA} />
+        <div className='grid grid-cols-2 justify-between mx-24'>
+            <Sub stations={stations} />
+            <Sub stations={stationA} />
+            <Sub stations={stationA} />
         </div>
     </div>    
   );
