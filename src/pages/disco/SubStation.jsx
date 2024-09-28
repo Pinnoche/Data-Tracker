@@ -3,7 +3,8 @@ import Sub from './Sub';
 
 function SubStation() {
   const stations = ['OLUYOLE', 'OLUYOLE T1', 'OLUYOLE T2', 'OBASANJO FARM', 'ZARTEC OLUYOLE'];
-  const stationA = ['OLuwole', 'OLUffLE T1', 'OfYOLE T2', 'OSjkdANJO FARM', 'ZjTkkC OLUYOLE'];
+  const stationA = ['OLuwole', 'OLUffLE T1', 'OfYOLE T2', 'OSjkdANJO FARM', 'ZjTkkC OLUYOLE', 'ZjTkkC OLUYOLE', 'ZjTkkC OLUYOLE' ];
+//   const stationB = []
 
   return (
     <div>
