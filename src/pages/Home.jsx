@@ -8,9 +8,7 @@ function Home() {
   const gotoSubstation = () =>{
     navigate('/substation')
   }
-  // const gotoDiagram =() =>{
-  //   navigate('/diagram')
-  // }
+
   return (
     <div className="mt-16 flex flex-col items-center gap-20 text-white">
       <h1 className="font-bold text-2xl">Welcome, Please Choose Your Preferred View</h1>
