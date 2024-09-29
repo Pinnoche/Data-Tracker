@@ -1,12 +1,9 @@
-import Sub from './Sub';
 
-function SubStation() {
-  const stations = ['OLUYOLE', 'OLUYOLE T1', 'OLUYOLE T2', 'OBASANJO FARM', 'ZARTEC OLUYOLE'];
-  const stationA = ['OLuwole', 'OLUffLE T1', 'OfYOLE T2', 'OSjkdANJO FARM', 'ZjTkkC OLUYOLE' ];
+function SubStation({ filteredTsData }) {
 
   return (
-    <div className='bg-white text-black p-6'>
-        <div>
+    <div className='h-full w-full bg-white text-black p-6'>
+        {filteredTsData && <div>
             <div className='bg-[#026487] max-w-md p-1 rounded-md font-bold text-center my-2 text-sm mx-auto shadow-lg text-white '>
                 MULTI-STATION VIEW
             </div>
@@ -15,11 +12,12 @@ function SubStation() {
                 <p>T1, 100MVA</p>
                 <p>T1, 100MVA</p>
             </div>
-        </div>
+        </div>}
         <div className='grid grid-cols-2 justify-between mx-24'>
-            <Sub stations={stations} />
-            <Sub stations={stationA} />
-            <Sub stations={stationA} />
+            {filteredTsData && filteredTsData.map( (data, index) => (
+              <p key={index}> {data.feeder_33}</p>
+            ))}
+            
         </div>
     </div>    
   );
