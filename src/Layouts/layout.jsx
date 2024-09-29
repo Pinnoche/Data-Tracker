@@ -8,7 +8,6 @@ import TS from '../pages/disco/TS';
 import SideBar from '../components/SideBar'
 import SubStation from '../pages/disco/SubStation';
 
-// import Diagram from '../components/Diagram';
 
 function Layout() {
   const datas = disco?.data || [];
@@ -33,9 +32,8 @@ function Layout() {
               <Routes>
                   <Route path="/" element={<Home />} />
                   <Route path='/dashboard' element={<Dashboard />} />
-                  <Route path='/disco/ts' element={<TS datas={datas} setFeeder={setFeeder} />} />
+                  <Route path='/ts' element={<TS datas={datas} setFeeder={setFeeder} />} />
                   <Route path='/substation' element={<SubStation filteredTsData={filteredTsData} />} />
-                  {/* <Route path='./diagram' element={<Diagram />} /> */}
               </Routes>
             </div>
         </div>

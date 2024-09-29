@@ -5,7 +5,7 @@ function TS({datas, setFeeder}) {
     setFeeder(ts);
     navigate('/substation');
 }
-const displayedBands = new Set();
+const displayedTs = new Set();
   return (
     <div className='h-full w-full px-16 py-20 bg-white text-[#026487]'>
       <div>
@@ -13,8 +13,8 @@ const displayedBands = new Set();
         <ul className="my-10 grid grid-cols-2">
           {datas.length > 0 ? (
             datas.map((data, index) => {
-              if(!displayedBands.has(data.transmission_station)){
-                displayedBands.add(data.transmission_station);
+              if(!displayedTs.has(data.transmission_station)){
+                displayedTs.add(data.transmission_station);
                 return(
               <li className="flex p-2 items-center gap-4 cursor-pointer" key={index}>
                 <img src="/vector.png" alt="Bolt" className="w-4" />

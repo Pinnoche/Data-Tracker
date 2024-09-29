@@ -1,4 +1,4 @@
-
+import Sub from "./Sub";
 function SubStation({ filteredTsData }) {
 
   return (
@@ -14,10 +14,7 @@ function SubStation({ filteredTsData }) {
             </div>
         </div>}
         <div className='grid grid-cols-2 justify-between mx-24'>
-            {filteredTsData && filteredTsData.map( (data, index) => (
-              <p key={index}> {data.feeder_33}</p>
-            ))}
-            
+            <Sub filteredTsData={filteredTsData} />
         </div>
     </div>    
   );

@@ -5,9 +5,6 @@ function Home() {
   const gotoDashboard = () => {
     navigate('/dashboard')
   }
-  const gotoSubstation = () =>{
-    navigate('/substation')
-  }
 
   return (
     <div className="mt-16 flex flex-col items-center gap-20 text-white">
@@ -17,7 +14,7 @@ function Home() {
           <img src="/account_circle.png" alt="Dashboard" />
           <p>Dashboard</p>
         </div>
-        <div onClick={gotoSubstation}>
+        <div>
           <img src="/notifications.png" alt="Alert" />
           <p>Alert</p>
         </div>
