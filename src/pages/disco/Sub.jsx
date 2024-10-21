@@ -1,6 +1,6 @@
 
 function Sub({ filteredTsData }) {
-  const hLength = filteredTsData.length;
+  // const hLength = filteredTsData.length;
   const displayedFeeder = new Set();
   return (
     <div className='w-max mb-24'>
@@ -8,9 +8,11 @@ function Sub({ filteredTsData }) {
         if(!displayedFeeder.has(data.feeder_33)){
           displayedFeeder.add(data.feeder_33);
           return (
-            <div key={index} className='uppercase bg-white h-10 w-20 drop-shadow-md px-2 py-3 mx-auto font-semibold text-xs text-center rounded-md'>{data.feeder_33}</div>
-
-          )} return null;
+            <div key={index} className='uppercase bg-white h-10 w-20 drop-shadow-md px-2 py-3 mx-auto font-semibold text-xs text-center rounded-md'>
+              <p>{data.feeder_33}</p>          
+            </div>     
+          )} 
+          return null;
       }))
        : (
         <div>No Feeders Available</div>

@@ -16,9 +16,9 @@ const displayedTs = new Set();
               if(!displayedTs.has(data.transmission_station)){
                 displayedTs.add(data.transmission_station);
                 return(
-              <li className="flex p-2 items-center gap-4 cursor-pointer" key={index}>
+              <li className="flex p-2 items-center gap-4" key={index}>
                 <img src="/vector.png" alt="Bolt" className="w-4" />
-                <div onClick={() => handleClick(data.transmission_station)}>
+                <div className="cursor-pointer" onClick={() => handleClick(data.transmission_station)}>
                   <p className="uppercase font-bold">Transmission Station: {data.transmission_station}</p>
                   
                 </div>
