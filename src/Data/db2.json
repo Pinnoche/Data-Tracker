@@ -1,0 +1,5058 @@
+[{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294023"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA INTERCHANGE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "EXPRESS 33kV FEEDER",
+  "feeder_11": "ARAMED 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294024"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA IYAGANKU ISS",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "IYAGANKU 33kV FEEDER",
+  "feeder_11": "IYAGANKU 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294025"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA NIPP IBADAN ROAD ISS",
+  "transformer_capacity_T/S": "T1 30MVA",
+  "transmission_station": "IJEBU ODE T/S",
+  "feeder_33": "IJEBU ODE 33kV FEEDER",
+  "feeder_11": "IJEBU INDUSTRIAL 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294026"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA INTERCHANGE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "EXPRESS 33kV FEEDER",
+  "feeder_11": "BAT/NEW AGE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294027"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA INTERCHANGE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "EXPRESS 33kV FEEDER",
+  "feeder_11": "LINA OIL 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294028"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA INTERCHANGE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "EXPRESS 33kV FEEDER",
+  "feeder_11": "BEST OIL/ALTAK 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294029"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA INTERCHANGE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "EXPRESS 33kV FEEDER",
+  "feeder_11": "FRIGOGLASS 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29402a"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA INTERCHANGE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "EXPRESS 33kV FEEDER",
+  "feeder_11": "BLACK/HORSE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29402b"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 7.5MVA ILESHA ROAD ISS",
+  "transformer_capacity_T/S": "T1 30MVA",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "ILE IFE TOWNSHIP 33kV FEEDER",
+  "feeder_11": "OAUTHC 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29402c"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 7.5MVA NPM ISS",
+  "transformer_capacity_T/S": "2T2 30MVA",
+  "transmission_station": "JEBBA T/S",
+  "feeder_33": "JEBBA/BACITA 33kV FEEDER",
+  "feeder_11": "JEBBA PAPER MILL 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29402d"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 7.5MVA NPM ISS",
+  "transformer_capacity_T/S": "2T2 30MVA",
+  "transmission_station": "JEBBA T/S",
+  "feeder_33": "JEBBA/BACITA 33kV FEEDER",
+  "feeder_11": "JEBBA TOWNSHIP 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29402e"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 7.5MVA OBASANJO ISS",
+  "transformer_capacity_T/S": "T1 40MVA",
+  "transmission_station": "OTA T/S",
+  "feeder_33": "ODIGBO 33kV FEEDER",
+  "feeder_11": "FARM 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29402f"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 7.5MVA TINUMOLA ISS",
+  "transformer_capacity_T/S": "4T4 60MVA",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "OSOGBO TOWNSHIP 33kV FEEDER",
+  "feeder_11": "AKEJU 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294030"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 7.5MVA TINUMOLA ISS",
+  "transformer_capacity_T/S": "4T4 60MVA",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "OSOGBO TOWNSHIP 33kV FEEDER",
+  "feeder_11": "WONDERFUL 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294031"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA ODI OLOWO ISS",
+  "transformer_capacity_T/S": "4T4 60MVA",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "OSOGBO TOWNSHIP 33kV FEEDER",
+  "feeder_11": "PRIME 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294032"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA ODI OLOWO ISS",
+  "transformer_capacity_T/S": "4T4 60MVA",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "OSOGBO TOWNSHIP 33kV FEEDER",
+  "feeder_11": "OSOGBO GRA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294033"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA IKIRUN ROAD ISS",
+  "transformer_capacity_T/S": "4T4 60MVA",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "POWERLINE 33kV FEEDER",
+  "feeder_11": "OSUTH 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294034"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA OLOMORE ISS",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ABEOKUTA T/S",
+  "feeder_33": "LAGOS ROAD 33kV FEEDER",
+  "feeder_11": "STARTIME 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294035"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA MOKOLA ISS",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "AGODI LINE 1 33kV FEEDER",
+  "feeder_11": "TOP SUCCESS 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294036"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA JERICHO ISS",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "JERICHO T2B 33kV FEEDER",
+  "feeder_11": "EVANS/EFCO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294037"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA JERICHO ISS",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "JERICHO T2A 33kV FEEDER",
+  "feeder_11": "AMI 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294038"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA OLUYOLE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "OLUYOLE 33kV FEEDER",
+  "feeder_11": "JOYCEB/RATCON 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294039"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA OLUYOLE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "OLUYOLE 33kV FEEDER",
+  "feeder_11": "YALE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29403a"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA SAMONDA ISS",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "SAMONDA 33kV FEEDER",
+  "feeder_11": "AERODROME 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29403b"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA SAMONDA ISS",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "SAMONDA 33kV FEEDER",
+  "feeder_11": "HOUSING ESTATE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29403c"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA OLUYOLE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "OLUYOLE 33kV FEEDER",
+  "feeder_11": "P&G 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29403d"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA OLUYOLE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "OLUYOLE 33kV FEEDER",
+  "feeder_11": "7UP 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29403e"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA LIBERTY ISS",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "LIBERTY 33kV FEEDER",
+  "feeder_11": "STADIUM 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29403f"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA ODIGBO ISS",
+  "transformer_capacity_T/S": "T1 40MVA",
+  "transmission_station": "OTA T/S",
+  "feeder_33": "ODIGBO 33kV FEEDER",
+  "feeder_11": "HOMAN 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294040"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA AGBA DAM ISS",
+  "transformer_capacity_T/S": "T1B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "GRA ILORIN 33kV FEEDER",
+  "feeder_11": "AGBA/SHOPRITE 11kV",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294041"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA PIPELINE ISS",
+  "transformer_capacity_T/S": "T2B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "CHALLENGE INDUSTRIAL 33kV FEEDER",
+  "feeder_11": "COMMERCIAL 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294042"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 7.5MVA ILESA ROAD ISS",
+  "transformer_capacity_T/S": "T1 30MVA",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "ILE IFE TOWNSHIP 33kV FEEDER",
+  "feeder_11": "PRIME ILESA ROAD 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294043"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA IKIRUN ROAD ISS",
+  "transformer_capacity_T/S": "4T4 60MVA",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "POWERLINE 33kV FEEDER",
+  "feeder_11": "OBELAWO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294044"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA INTERCHANGE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "EXPRESS 33kV FEEDER",
+  "feeder_11": "EAGLE FLOUR MILLS 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294045"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA ASA DAM ISS",
+  "transformer_capacity_T/S": "T2B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "CHALLENGE INDUSTRIAL 33kV FEEDER",
+  "feeder_11": "ASA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294046"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AGODI GATE INJ. S/S 2X15MVA",
+  "transformer_capacity_T/S": "T1 45MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "AGODI LINE 2 33KV FEEDER",
+  "feeder_11": "BASORUN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294047"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OLUYOLE 2X15 MVA T1",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "OLUYOLE 33KV FEEDER",
+  "feeder_11": "AJINDE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294048"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OLUYOLE 2X15 MVA T2",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "OLUYOLE 33KV FEEDER",
+  "feeder_11": "ELEBU 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294049"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OLUYOLE 2X15 MVA T2",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "OLUYOLE 33KV FEEDER",
+  "feeder_11": "IMALEFALAFIA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29404a"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA MOKOLA ISS",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "AGODI LINE 1 33kV FEEDER",
+  "feeder_11": "OREMEJI 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29404b"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ELEYELE INJ. S/S 2X15MVA T1",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "ELEYELE 33KV FEEDER",
+  "feeder_11": "DUGBE INDUSTRIAL 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29404c"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OLUYOLE 2X15 MVA T1",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "OLUYOLE 33KV FEEDER",
+  "feeder_11": "OLUSANYA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29404d"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA AGODI GATE ISS",
+  "transformer_capacity_T/S": "T1 45MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "AGODI LINE 2 33kV FEEDER",
+  "feeder_11": "STATE HOUSE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29404e"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA LIBERTY ISS",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "LIBERTY 33kV FEEDER",
+  "feeder_11": "YEJIDE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29404f"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA NISER INJ. S/S",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "UI/NISER 33kV FEEDER",
+  "feeder_11": "BODIJA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294050"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IWOYE INJ. S/S T1 7.5MVA",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "ILESA T/S",
+  "feeder_33": "IJEBU-JESA 33KV FEEDER",
+  "feeder_11": "ILESA ROAD 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294051"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA HIGH SCHOOL ISS",
+  "transformer_capacity_T/S": "T1B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "OGBOMOSO 33kV FEEDER",
+  "feeder_11": "SEMINARY 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294052"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA AGBA DAM ISS",
+  "transformer_capacity_T/S": "T1B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "GRA ILORIN 33kV FEEDER",
+  "feeder_11": "GOVERNMENT HOUSE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294053"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA NEW BUSSA ISS",
+  "transformer_capacity_T/S": "TR2 40MVA",
+  "transmission_station": "KAINJI T/S",
+  "feeder_33": "DOGONGERI 33kV FEEDER",
+  "feeder_11": "SENIOR STAFF QTRS F20 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294054"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "PIPELINE INJ. S/S 1X 15MVA",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "GRA ILORIN 33VK FEEDER",
+  "feeder_11": "CHALLENGE AWOLOWO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294055"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "15MVA BUDO OSHO INJ. S/S",
+  "transformer_capacity_T/S": "T2B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "HARMONY 33KV FEEDER",
+  "feeder_11": "F DIVISION 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294056"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA AKOBO ISS",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "ADOGBA 33kV FEEDER",
+  "feeder_11": "IMPACT RADIO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294057"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA JERICHO ISS",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "JERICHO T2A 33kV FEEDER",
+  "feeder_11": "ONIREKE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294058"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "JERICHO INJ. S/S 2X15MVA T2A",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "JERICHO 33KV FEEDER",
+  "feeder_11": "COCOA HOUSE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294059"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA JERICHO ISS",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "JERICHO T2B 33kV FEEDER",
+  "feeder_11": "BANK ROAD 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29405a"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA ASA DAM ISS",
+  "transformer_capacity_T/S": "T2B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "CHALLENGE INDUSTRIAL 33kV FEEDER",
+  "feeder_11": "YIDI 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29405b"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA ADOGBA ISS",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "ADOGBA 33kV FEEDER",
+  "feeder_11": "CROWN 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29405c"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA AGBA DAM ISS",
+  "transformer_capacity_T/S": "T1B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "GRA ILORIN 33kV FEEDER",
+  "feeder_11": "TANKE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29405d"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 7.5MVA SAKI INJ. S/S",
+  "transformer_capacity_T/S": "T2, 30MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "SAKI 33kV FEEDER",
+  "feeder_11": "OYO SANGO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29405e"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IKIRUN ROAD INJ. S/S T1 1X15MVA",
+  "transformer_capacity_T/S": "T4 60MVA",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "POWER LINE 33KV FEEDER",
+  "feeder_11": "OLU ODE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29405f"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AANU OLU INJ. S/S 15MVA T1",
+  "transformer_capacity_T/S": "30MVA T5",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "EDE WATER WORKS 33KV",
+  "feeder_11": "EDE TOWNSHIP 11K FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294060"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AANU OLU INJ. S/S 15MVA T1",
+  "transformer_capacity_T/S": "30MVA T5",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "EDE WATER WORKS 33KV",
+  "feeder_11": "COTTAGE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294061"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ELEWERAN 15MVA T1 INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "132KV T/S NEW ABEOKUTA",
+  "feeder_33": "ELEWERAN 33KV FEEDER",
+  "feeder_11": "SOMORIN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294062"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "15MVA BUDO OSHO INJ. S/S",
+  "transformer_capacity_T/S": "T2B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "HARMONY 33KV FEEDER",
+  "feeder_11": "TAHOHEED 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294063"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "15MVA OKO OLOWO INJ S/S",
+  "transformer_capacity_T/S": "T2A 45MVA",
+  "transmission_station": "SAW MILL T/S",
+  "feeder_33": "KISHI IGBETI 33KV FEEDER",
+  "feeder_11": "OGIDI 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294064"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "JERICHO I INJ. S/S 15MVA",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "JERICHO T2A 33KV FEEDER",
+  "feeder_11": "RAILWAY 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294065"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AGODI GATE INJ. S/S 2X15MVA",
+  "transformer_capacity_T/S": "T1 45MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "AGODI LINE 2 33KV FEEDER",
+  "feeder_11": "SECRETARIAT 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294066"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "MOKOLA 2X15MVA T2",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "AGODI LINE 1 33KV FEEDER",
+  "feeder_11": "EKOTEDO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294067"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA BCJ ISS",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "APATA 33kV FEEDER",
+  "feeder_11": "OLUYOLE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294068"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OKE-OMIRU INJ. S/S T2 1X15MVA",
+  "transformer_capacity_T/S": "T1 40MVA",
+  "transmission_station": "ILESA T/S",
+  "feeder_33": "ILESA 33KV FEEDER",
+  "feeder_11": "PALACE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294069"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AP INJ. S/S. 2X15MVA  T2",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "ILE IFE TOWNSHIP 33KV FEEDER",
+  "feeder_11": "PARAKIN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29406a"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IKIRUN TOWN INJ. S/S 15MVA T1",
+  "transformer_capacity_T/S": "60MVA T4",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "OSOGBO/IKIRUN 33KV FEEDER",
+  "feeder_11": "IKIRUN TOWNSHIP 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29406b"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IKIRUN TOWN INJ. S/S 15MVA T1",
+  "transformer_capacity_T/S": "60MVA T4",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "OSOGBO/IKIRUN 33KV FEEDER",
+  "feeder_11": "IPETU-ILE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29406c"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "PAPALANTO 1 X7.5MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "PAPANLATO T/S",
+  "feeder_33": "ILARO 33KV FEEDER",
+  "feeder_11": "SANGO ILARO ROAD 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29406d"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ROUNDER 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "OJERE T/S",
+  "feeder_33": "IMEKO 33KV FEEDER",
+  "feeder_11": "SOYOYE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29406e"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IKIRUN ROAD INJ. S/S T1 1X15MVA",
+  "transformer_capacity_T/S": "T4 60MVA",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "POWER LINE 33KV FEEDER",
+  "feeder_11": "IGBONA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29406f"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IKIRUN ROAD INJ. S/S T2 1X15MVA",
+  "transformer_capacity_T/S": "T4 60MVA",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "POWER LINE 33KV FEEDER",
+  "feeder_11": "NCC 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294070"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OKE-AYEPE INJ. S/S 1X15MVA (NIPP)",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "OSOGBO TOWNSHIP 33KV FEEDER",
+  "feeder_11": "AYEPE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294071"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA POLY ROAD ISS",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "ABEOKUTA T/S",
+  "feeder_33": "OWODE LINE II 33kV FEEDER",
+  "feeder_11": "IJAYE  11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294072"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ELEYELE I 15MVA",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "ELEYELE 33KV FEEDER",
+  "feeder_11": "IJOKODO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294073"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA OWODE ISS",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "ERUWA LANLATE 33kV FEEDER",
+  "feeder_11": "APATA ESTATE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294074"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "NIPP IBADAN ROAD 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T2, 30MVA",
+  "transmission_station": "IJEBU-ODE T/S",
+  "feeder_33": "IDOWA 33KV FEEDER",
+  "feeder_11": "MOLIPA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294075"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA BCJ ISS",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "APATA 33kV FEEDER",
+  "feeder_11": "ODO ONA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294076"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA BCJ ISS",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "APATA 33kV FEEDER",
+  "feeder_11": "BEMBO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294077"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA BCJ ISS",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "APATA 33kV FEEDER",
+  "feeder_11": "APATA OWODE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294078"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IYAGANKU INJ. S/S 1X15MVA",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "IYAGANKU 33KV FEEDER",
+  "feeder_11": "OKE BOLA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294079"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA OWODE ISS",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "ERUWA LANLATE 33kV FEEDER",
+  "feeder_11": "OLORUNTUMO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29407a"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA INTERCHANGE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "EXPRESS 33kV FEEDER",
+  "feeder_11": "CHALLENGE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29407b"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "PIPELINE INJ. S/S 1X 15MVA",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "GRA ILORIN 33VK FEEDER",
+  "feeder_11": "DANIALU 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29407c"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ONDO ROAD ILE IFE INJ. S/S. 2X15MVA T1",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "ILE IFE TOWNSHIP 33KV FEEDER",
+  "feeder_11": "ITA OSA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29407d"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OKE-OMIRU INJ. S/S T1 1X7.5MVA",
+  "transformer_capacity_T/S": "T1 40MVA",
+  "transmission_station": "ILESA T/S",
+  "feeder_33": "ILESA 33KV FEEDER",
+  "feeder_11": "ILAJE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29407e"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILESHA ROAD INJ. S/S. 1X7.5MVA T1",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "ILE IFE TOWNSHIP 33KV FEEDER",
+  "feeder_11": "OPA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29407f"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILA-ORANGUN 7.5MVA",
+  "transformer_capacity_T/S": "60MVA T4",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "OSOGBO/IKIRUN 33KV FEEDER",
+  "feeder_11": "OKE-OGBUN 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294080"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILA-ORANGUN 7.5MVA",
+  "transformer_capacity_T/S": "60MVA T4",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "OSOGBO/IKIRUN 33KV FEEDER",
+  "feeder_11": "ILA TOWNSHIP 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294081"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IWO INJ. S/S 1X15 MVA T1",
+  "transformer_capacity_T/S": "40MVA  T1",
+  "transmission_station": "IWO T/S",
+  "feeder_33": "IWO 33KV FEEDER",
+  "feeder_11": "ODO-ORI ROAD 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294082"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IDIOGUN INJ. S/S T2 7.5MVA",
+  "transformer_capacity_T/S": "30MVA",
+  "transmission_station": "OFFA T/S",
+  "feeder_33": "OFFA 33KV FEEDER",
+  "feeder_11": "IGOSUN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294083"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "SAW-MILL INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "INCOMER T1B 33KV",
+  "feeder_11": "UITH 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294084"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "EJIGBO INJ. S/S 7.5MVA T1",
+  "transformer_capacity_T/S": "60MVA T3",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "EJIGBO 33KV FEEDER",
+  "feeder_11": "EJIGBO TOWNSHIP 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294085"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "MORO INJ. S/S 7.5MVA",
+  "transformer_capacity_T/S": "30MVA T2",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "SEKONA 33KV FEEDER",
+  "feeder_11": "EDUN-ABON 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294086"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ELEWERAN 15MVA T1 INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "132KV T/S NEW ABEOKUTA",
+  "feeder_33": "ELEWERAN 33KV FEEDER",
+  "feeder_11": "OBANTOKO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294087"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "HARMONY 1X15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T2 2X60 MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "HARMONY 33KV FEEDER",
+  "feeder_11": "SANGO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294088"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OKE-OMIRU INJ. S/S T2 1X15MVA",
+  "transformer_capacity_T/S": "T1 40MVA",
+  "transmission_station": "ILESA T/S",
+  "feeder_33": "ILESA 33KV FEEDER",
+  "feeder_11": "IRETI AYO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294089"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "JERICHO 2 (YOKELEPEKUN) 1X15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "T/S IBADAN NORTH",
+  "feeder_33": "ALAKIA 33KV FEEDER",
+  "feeder_11": "SAWMILL 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29408a"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA  ADOGBA INJ. S/S",
+  "transformer_capacity_T/S": "T2, 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "ADOGBA 33kV FEEDER",
+  "feeder_11": "NEW IFE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29408b"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "HARMONY 1X15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T2 2X60 MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "HARMONY 33KV FEEDER",
+  "feeder_11": "BALOGUN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29408c"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AGODI LINE 2 INJ. S/S 15MVA",
+  "transformer_capacity_T/S": "T1 45MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "AGODI LINE 2 33KV FEEDER",
+  "feeder_11": "IWO ROAD 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29408d"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AGODI LINE 2 INJ. S/S 15MVA",
+  "transformer_capacity_T/S": "T1 45MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "AGODI LINE 2 33KV FEEDER",
+  "feeder_11": "OJE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29408e"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IDIOGUN INJ. S/S T2 7.5MVA",
+  "transformer_capacity_T/S": "30MVA",
+  "transmission_station": "OFFA T/S",
+  "feeder_33": "OFFA 33KV FEEDER",
+  "feeder_11": "OFFA INDUSTRIAL 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29408f"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA ADOGBA INJ. S/S",
+  "transformer_capacity_T/S": "",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "ADOGBA 33kV FEEDER",
+  "feeder_11": "MONATAN 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294090"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILESHA ROAD INJ. S/S. 1X7.5MVA T2",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "ILE IFE TOWNSHIP 33KV FEEDER",
+  "feeder_11": "MOKURO ROAD 11KV",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294091"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILERI INJ. S/S T1 1X7.5MVA",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "ILESA T/S",
+  "feeder_33": "IPETU IJESA 33KV FEEDER",
+  "feeder_11": "IROGBO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294092"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ABIOLA-WAY INJ. S/S 15MVA,T2",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "OJERE 132KV T/S",
+  "feeder_33": "HILL TOP  33KV FEEDER",
+  "feeder_11": "LADERIN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294093"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IWO INJ. S/S 1X15 MVA T1",
+  "transformer_capacity_T/S": "40MVA  T1",
+  "transmission_station": "IWO T/S",
+  "feeder_33": "IWO 33KV FEEDER",
+  "feeder_11": "IWO TOWNSHIP 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294094"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "TSONGA INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "30MVA",
+  "transmission_station": "JEBBA T/S",
+  "feeder_33": "JEBBA BACITA 33KV FEEDER",
+  "feeder_11": "TSONGA 1 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294095"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ELEYELE II 15MVA",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "ELEYELE 33KV FEEDER",
+  "feeder_11": "OLOGUNERU 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294096"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "GBONGAN INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "IKIRE/WASIMI 33KV FEEDER",
+  "feeder_11": "ODE-OMU 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294097"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "MOKWA INJ. S/S 7.5MVA",
+  "transformer_capacity_T/S": "30MVA",
+  "transmission_station": "JEBBA T/S",
+  "feeder_33": "MOKWA 33KV FEEDER",
+  "feeder_11": "MOKWA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294098"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA SAKUTU INJ. S/S",
+  "transformer_capacity_T/S": "T1, 45MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "OYO 33kV FEEDER",
+  "feeder_11": "OYO SABO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294099"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA IBADAN NORTH INJ. S/S",
+  "transformer_capacity_T/S": "T2, 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "IBADAN NORTH 33kV FEEDER",
+  "feeder_11": "OROGUN 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29409a"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA IBADAN NORTH INJ. S/S",
+  "transformer_capacity_T/S": "T2, 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "IBADAN NORTH 33kV FEEDER",
+  "feeder_11": "SHASHA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29409b"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AGO-IWOYE 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1, 30MVA",
+  "transmission_station": "IJEBU-ODE T/S",
+  "feeder_33": "IJEBU-IGBO 33KV FEEDER",
+  "feeder_11": "IJEBU TOWNSHIP 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29409c"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2, IBADAN ROAD 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T2, 30MVA",
+  "transmission_station": "IJEBU-ODE T/S",
+  "feeder_33": "IJEBU ODE 33KV FEEDER",
+  "feeder_11": "BONOJO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29409d"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IGBOBI 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 30MVA",
+  "transmission_station": "SAGAMU T/S",
+  "feeder_33": "SAGAMU 33KV FEEDER",
+  "feeder_11": "IGBOBI 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29409e"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AGO-IWOYE 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1, 30MVA",
+  "transmission_station": "IJEBU-ODE T/S",
+  "feeder_33": "IJEBU-IGBO 33KV FEEDER",
+  "feeder_11": "IGAN  11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29409f"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "INTERCHANGE INJ. S/S 2X15 MVA T1",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "INTERCHANGE 33KV FEEDER",
+  "feeder_11": "SOKA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940a0"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "INTERCHANGE INJ. S/S 2X15 MVA T1",
+  "transformer_capacity_T/S": "60MVA T2",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "INTERCHANGE 33KV FEEDER",
+  "feeder_11": "BOLUWAJI 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940a1"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "INTERCHANGE INJ. S/S 2X15 MVA T1",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "INTERCHANGE 33KV FEEDER",
+  "feeder_11": "PODO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940a2"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ONIJANGANJAGAN 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T3 30MVA",
+  "transmission_station": "OJERE T/S 132KV",
+  "feeder_33": "LAGOS ROAD 33KV FEEDER",
+  "feeder_11": "ITA-OSHIN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940a3"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ORO INJ. S/S T1 7.5MVA",
+  "transformer_capacity_T/S": "T1, 30MVA",
+  "transmission_station": "OMU-ARAN T/S",
+  "feeder_33": "ISANLU-ISIN 33KV FEEDER",
+  "feeder_11": "ORO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940a4"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "EJIGBO INJ. S/S 7.5MVA T1",
+  "transformer_capacity_T/S": "60MVA T3",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "EJIGBO 33KV FEEDER",
+  "feeder_11": "IFE-ODAN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940a5"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA OLUNDE ISS",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "NBL 33kV FEEDER",
+  "feeder_11": "OLOMI 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940a6"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA OLUNDE ISS",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "NBL 33kV FEEDER",
+  "feeder_11": "OLUNDE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940a7"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 7.5MVA ISEYIN INJ.S/S",
+  "transformer_capacity_T/S": "T1, 45MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "ISEYIN 33kV FEEDER",
+  "feeder_11": "OLUWOLE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940a8"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2, 7.5MVA ILORA INJ. S/S",
+  "transformer_capacity_T/S": "T1, 45MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "OYO 33kV FEEDER",
+  "feeder_11": "OYO OWODE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940a9"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 7.5MVA ILORA INJ. S/S",
+  "transformer_capacity_T/S": "T1, 45MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "OYO 33kV FEEDER",
+  "feeder_11": "ARAROMI 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940aa"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 7.5MVA ISEYIN INJ.S/S",
+  "transformer_capacity_T/S": "T1, 45MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "ISEYIN 33kV FEEDER",
+  "feeder_11": "KOSO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ab"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA OLORUNSOGO ISS",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "NBL 33kV FEEDER",
+  "feeder_11": "OKE OFFA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ac"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA OLORUNSOGO ISS",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "NBL 33kV FEEDER",
+  "feeder_11": "OGBERE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ad"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA OLORUNSOGO ISS",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "NBL 33kV FEEDER",
+  "feeder_11": "AKARAN EXPRESS  11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ae"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA MONIYA INJ. S/S",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "IBADAN NORTH 33kV FEEDER",
+  "feeder_11": "OJOO ODO OBA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940af"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 7.5MVA AWE INJ. S/S",
+  "transformer_capacity_T/S": "T1, 45MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "OYO 33kV FEEDER",
+  "feeder_11": "AWE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940b0"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 7.5MVA AWE INJ. S/S",
+  "transformer_capacity_T/S": "T1, 45MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "OYO 33kV FEEDER",
+  "feeder_11": "LOW COST 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940b1"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IJEBU-IGBO T1, 7.5MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1, 30MVA",
+  "transmission_station": "IJEBU-ODE T/S",
+  "feeder_33": "IJEBU-IGBO 33KV FEEDER",
+  "feeder_11": "ADEBOYE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940b2"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IJEBU-IGBO T2, 7.5MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1, 30MVA",
+  "transmission_station": "IJEBU-ODE T/S",
+  "feeder_33": "IJEBU-IGBO 33KV FEEDER",
+  "feeder_11": "OKE AGBO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940b3"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OSOSA INJ. S/S 7.5 MVA",
+  "transformer_capacity_T/S": "T2, 30MVA",
+  "transmission_station": "IJEBU-ODE T/S",
+  "feeder_33": "IDOWA 33KV FEEDER",
+  "feeder_11": "IJEBU SABO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940b4"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IGBOBI 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 30MVA",
+  "transmission_station": "SAGAMU T/S",
+  "feeder_33": "SAGAMU 33KV FEEDER",
+  "feeder_11": "SAGAMU INDUSTRIAL 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940b5"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 7.5MVA ILORA INJ. S/S",
+  "transformer_capacity_T/S": "T1, 45MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "OYO 33kV FEEDER",
+  "feeder_11": "IREPO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940b6"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IDIOGUN INJ. S/S T1 7.5MVA",
+  "transformer_capacity_T/S": "30MVA",
+  "transmission_station": "OFFA T/S",
+  "feeder_33": "OFFA 33KV FEEDER",
+  "feeder_11": "ERIN-ILE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940b7"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IBEREKODO 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "132KV T/S NEW ABEOKUTA",
+  "feeder_33": "ELEWERAN 33KV FEEDER",
+  "feeder_11": "MAWUKO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940b8"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "POLY  INJ. S/S 7.5MVA",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "SOBI POLY 33KV FEEDER",
+  "feeder_11": "KULENDE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940b9"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IYESI 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 40MVA",
+  "transmission_station": "T/S OTA",
+  "feeder_33": "IDIROKO 33KV FEEDER",
+  "feeder_11": "OSUKE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ba"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA ODIGBO ISS",
+  "transformer_capacity_T/S": "T1 40MVA",
+  "transmission_station": "OTA T/S",
+  "feeder_33": "ODIGBO 33kV FEEDER",
+  "feeder_11": "TOWN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940bb"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ADETA INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "OTTE 33KV FEEDER",
+  "feeder_11": "PAKATA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940bc"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ROUNDER 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "OJERE T/S",
+  "feeder_33": "IMEKO 33KV FEEDER",
+  "feeder_11": "OLUMO SABO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940bd"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IYESI 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 40MVA",
+  "transmission_station": "T/S OTA",
+  "feeder_33": "IDIROKO 33KV FEEDER",
+  "feeder_11": "IYESI 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940be"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "NEW BUSSA INJ. S/S T1 15MVA,",
+  "transformer_capacity_T/S": "T2, 40MVA",
+  "transmission_station": "DOGONGERI T/S",
+  "feeder_33": "DOGONGERI 33KV FEEDER",
+  "feeder_11": "SF6/NASARRAWA/SABO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940bf"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "Poly Rd T3  INJ. S/S 15MVA 33KV",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "OJERE T/S",
+  "feeder_33": "OWODE LINE II 33KV FEEDER",
+  "feeder_11": "AKE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940c0"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ADETA INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "OTTE 33KV FEEDER",
+  "feeder_11": "OLOJE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940c1"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILORIN ROAD INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "OGBOMOSO 33KV FEEDER",
+  "feeder_11": "AROJE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940c2"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA ODI OLOWO ISS",
+  "transformer_capacity_T/S": "4T4 60MVA",
+  "transmission_station": "OSOGBO T/S",
+  "feeder_33": "OSOGBO TOWNSHIP 33kV FEEDER",
+  "feeder_11": "GBONGAN ROAD 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940c3"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "POLY  INJ. S/S 7.5MVA",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "SOBI POLY 33KV FEEDER",
+  "feeder_11": "OKE-OYI 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940c4"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 IJOKO 15 MVA INJ. S/S",
+  "transformer_capacity_T/S": "T2, 60MVA",
+  "transmission_station": "OKE ARO T/S",
+  "feeder_33": "IJOKO 33KV FEEDER",
+  "feeder_11": "OTA  11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940c5"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILORIN ROAD INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "OGBOMOSO 33KV FEEDER",
+  "feeder_11": "TAKIE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940c6"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 7.5MVA OBASANJO ISS",
+  "transformer_capacity_T/S": "T1 40MVA",
+  "transmission_station": "OTA T/S",
+  "feeder_33": "ODIGBO 33kV FEEDER",
+  "feeder_11": "AFOBAJE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940c7"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IYESI 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 40MVA",
+  "transmission_station": "T/S OTA",
+  "feeder_33": "IDIROKO 33KV FEEDER",
+  "feeder_11": "EGAN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940c8"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "SAW-MILL INJ. S/S T2 15MVA",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "INCOMER T1C 33KV FEEDER",
+  "feeder_11": "UNITY 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940c9"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILARO  1 x 7.5MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "PAPANLATO T/S",
+  "feeder_33": "ILARO 33KV FEEDER",
+  "feeder_11": "ILARO TOWNSHIP 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ca"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILARO  1 x 7.5MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "PAPANLATO T/S",
+  "feeder_33": "ILARO 33KV FEEDER",
+  "feeder_11": "OKE ELA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940cb"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IDIOGUN INJ. S/S T1 7.5MVA",
+  "transformer_capacity_T/S": "30MVA",
+  "transmission_station": "OFFA T/S",
+  "feeder_33": "OFFA 33KV FEEDER",
+  "feeder_11": "OFFA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940cc"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILERI INJ. S/S T1 1X7.5MVA",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "ILESA T/S",
+  "feeder_33": "IPETU IJESA 33KV FEEDER",
+  "feeder_11": "ISARE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940cd"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "NAVY QTRS T1 x 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T4 60MVA",
+  "transmission_station": "T/S OTA",
+  "feeder_33": "TOLL GATE 33KV FEEDER",
+  "feeder_11": "ABEBI 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ce"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ABIOLA-WAY INJ. S/S 15MVA,T2",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "OJERE 132KV T/S",
+  "feeder_33": "HILL TOP  33KV FEEDER",
+  "feeder_11": "ABIOLA WAY 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940cf"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2, 15MVA  ABIOLWA WAY INJ S/S",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ABEOKUTA\tT/S",
+  "feeder_33": "HILLTOP 33kV FEEDER",
+  "feeder_11": "KEMTA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940d0"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IKIRE INJ. S/S T1 7.5MVA",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "IKIRE/WASIMI 33KV FEEDER",
+  "feeder_11": "IKIRE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940d1"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 7.5MVA SAKI INJ. S/S",
+  "transformer_capacity_T/S": "T2, 30MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "SAKI 33kV FEEDER",
+  "feeder_11": "BARRACKS 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940d2"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IFO 15MVA T1 INJ. S/S",
+  "transformer_capacity_T/S": "T2 30MVA",
+  "transmission_station": "PAPALANTO T/S",
+  "feeder_33": "OTA INDUSTRIAL 33KV FEEDER",
+  "feeder_11": "IFO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940d3"
+  },
+  "disco": "IBADAN",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "OJERE 132KV T/S",
+  "feeder_33": "HILL TOP  33KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940d4"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA SAW-MILL ISS",
+  "transformer_capacity_T/S": "T1A 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "INCOMER TIB 33kV FEEDER",
+  "feeder_11": "GENERAL HOSPITAL 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940d5"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA SAW-MILL ISS",
+  "transformer_capacity_T/S": "T1A 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "INCOMER TIC 33kV FEEDER",
+  "feeder_11": "EMIR PALACE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940d6"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA POLY ROAD ISS",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "ABEOKUTA T/S",
+  "feeder_33": "OWODE LINE II 33kV FEEDER",
+  "feeder_11": "GTB 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940d7"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA ITC ISS",
+  "transformer_capacity_T/S": "T2B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "CHALLENGE INDUSTRIAL 33kV FEEDER",
+  "feeder_11": "MURITALA MOHAMMED 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940d8"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 15MVA SAW-MILL ISS",
+  "transformer_capacity_T/S": "T1A 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "INCOMER TIC 33kV FEEDER",
+  "feeder_11": "TAIWO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940d9"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AP INJ. S/S. 2X15MVA  T1",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "ILE IFE TOWNSHIP 33KV FEEDER",
+  "feeder_11": "IBADAN ROAD 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940da"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AP INJ. S/S. 2X15MVA  T1",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "ILE IFE TOWNSHIP 33KV FEEDER",
+  "feeder_11": "LAGERE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940db"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ITC INJ. S/S  1 X 15MVA",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "CHALLENGE INDUSTRIAL 33KV FEEDER",
+  "feeder_11": "BABA ODE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940dc"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "GAA IMAM INJ. S/S 7.5MVA",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "CHALLENGE INDUSTRIAL 33KV FEEDER",
+  "feeder_11": "KILANKO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940dd"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "Poly Rd T1  INJ. S/S 15MVA  33KV",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "OJERE T/S",
+  "feeder_33": "OWODE LINE I 33KV FEEDER",
+  "feeder_11": "IJEUN GRA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940de"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IMO INJ. S/S 15MVA",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "ILESA T/S",
+  "feeder_33": "IPETU IJESA 33KV FEEDER",
+  "feeder_11": "OMI ASORO/IMO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940df"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AP INJ. S/S. 2X15MVA  T2",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "ILE IFE TOWNSHIP 33KV FEEDER",
+  "feeder_11": "ORONA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940e0"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "SOBI  INJ. S/S 7.5MVA",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "SOBI POLY 33KV FEEDER",
+  "feeder_11": "SPECIALIST HOSPITAL 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940e1"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "Poly Rd T1  INJ. S/S 15MVA  33KV",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "OJERE T/S",
+  "feeder_33": "OWODE LINE I 33KV FEEDER",
+  "feeder_11": "TOTORO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940e2"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "POLY ROAD T3 INJ. S/S 15MVA",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "OJERE T/S 132KV",
+  "feeder_33": "OWODE LINE 2 33KV FEEDER",
+  "feeder_11": "AKIN OLUGBADE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940e3"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "POLY ROAD T2 INJ. S/S 15MVA",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "OJERE T/S",
+  "feeder_33": "OWODE LINE 1 33KV FEEDER",
+  "feeder_11": "KOLOBO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940e4"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "SAW-MILL INJ. S/S T3 15MVA",
+  "transformer_capacity_T/S": "T2, 45MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "INCOMER T2B 33KV FEEDER",
+  "feeder_11": "ADEWOLE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940e5"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "SOBI  INJ. S/S 7.5MVA",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "SOBI POLY 33KV FEEDER",
+  "feeder_11": "SOBI 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940e6"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ONDO ROAD ILE IFE INJ. S/S. 2X15MVA T1",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "ILE IFE TOWNSHIP 33KV FEEDER",
+  "feeder_11": "FAMIA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940e7"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ONDO ROAD ILE IFE INJ. S/S. 2X15MVA T1",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "ILE IFE TOWNSHIP 33KV FEEDER",
+  "feeder_11": "ITAMERIN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940e8"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ABIOLA-WAY INJ. S/S 15MVA,T1",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "OJERE 132KV T/S",
+  "feeder_33": "HILL TOP  33KV FEEDER",
+  "feeder_11": "IJEUN TITUN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940e9"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA HIGH SCHOOL ISS",
+  "transformer_capacity_T/S": "T1B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "OGBOMOSO 33kV FEEDER",
+  "feeder_11": "RANDA/ODO OBA   11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ea"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "HIGH SCHOOL INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "OGBOMOSO 33KV FEEDER",
+  "feeder_11": "OGBOMOSO ODO-OBA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940eb"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 IJOKO 15 MVA INJ. S/S",
+  "transformer_capacity_T/S": "T2, 60MVA",
+  "transmission_station": "OKE ARO T/S",
+  "feeder_33": "IJOKO 33KV FEEDER",
+  "feeder_11": "IJOKO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ec"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2 IJOKO 15 MVA INJ. S/S",
+  "transformer_capacity_T/S": "T2, 60MVA",
+  "transmission_station": "OKE ARO T/S",
+  "feeder_33": "IJOKO 33KV FEEDER",
+  "feeder_11": "ABEOKUTA ROAD 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ed"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OLOMOORE 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "OJERE T/S",
+  "feeder_33": "IMEKO 33KV FEEDER",
+  "feeder_11": "OLOMOORE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ee"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILORIN ROAD INJ. S/S T2, 7.5MVA",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "OGBOMOSO 33KV FEEDER",
+  "feeder_11": "OKE-ADO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ef"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "POLY  INJ. S/S 7.5MVA",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "SOBI POLY 33KV FEEDER",
+  "feeder_11": "POLY 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940f0"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "PAPALANTO 1 X7.5MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "PAPANLATO T/S",
+  "feeder_33": "ILARO 33KV FEEDER",
+  "feeder_11": "OLORUNSOGO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940f1"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA LIBERTY ISS",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "LIBERTY 33kV FEEDER",
+  "feeder_11": "ANFANI 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940f2"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 7.5MVA OSOSA ISS",
+  "transformer_capacity_T/S": "T1 30MVA",
+  "transmission_station": "IJEBU ODE T/S",
+  "feeder_33": "IDOWA 33kV FEEDER",
+  "feeder_11": "RITE FOOD QUARTERS 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940f3"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA AGBA DAM ISS",
+  "transformer_capacity_T/S": "T1B 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "GRA ILORIN 33kV FEEDER",
+  "feeder_11": "BASIN 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940f4"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA NEW BUSSA ISS",
+  "transformer_capacity_T/S": "TR2 40MVA",
+  "transmission_station": "KAINJI T/S",
+  "feeder_33": "DOGONGERI 33kV FEEDER",
+  "feeder_11": "SF2 NEW BUSSA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940f5"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA NEW BUSSA ISS",
+  "transformer_capacity_T/S": "TR2 40MVA",
+  "transmission_station": "KAINJI T/S",
+  "feeder_33": "DOGONGERI 33kV FEEDER",
+  "feeder_11": "MAINSTREAM 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940f6"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ILERI INJ. S/S T1 1X7.5MVA",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "ILESA T/S",
+  "feeder_33": "IPETU IJESA 33KV FEEDER",
+  "feeder_11": "MOUNT CAMEL 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940f7"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 7.5MVA ALAKIA NIPP INJ. S/S",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "ALAKIA 33kV FEEDER",
+  "feeder_11": "OLODE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940f8"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IWOYE INJ. S/S T1 7.5MVA",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "ILESA T/S",
+  "feeder_33": "IJEBU-JESA 33KV FEEDER",
+  "feeder_11": "IWOYE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940f9"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ITELE 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T4 60MVA",
+  "transmission_station": "T/S OTA",
+  "feeder_33": "IJAGBA 33KV FEEDER",
+  "feeder_11": "ITELE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940fa"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "MORO INJ. S/S 7.5MVA",
+  "transformer_capacity_T/S": "30MVA T2",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "SEKONA 33KV FEEDER",
+  "feeder_11": "IPETUMODU 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940fb"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 7.5MVA ALAKIA NIPP INJ. S/S",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "ALAKIA 33kV FEEDER",
+  "feeder_11": "PAPA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940fc"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ASA DAM INJ. S/S 1 X 15MVA",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "CHALLENGE INDUSTRIAL 33KV FEEDER",
+  "feeder_11": "IREWOLEDE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940fd"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "NIPP OKUKU 1X7.5MVA  T1",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "OFFA T/S",
+  "feeder_33": "OFFA /OKUKU 33KV FEEDER",
+  "feeder_11": "IGBAYE ROAD 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940fe"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "NIPP OKUKU 1X7.5MVA  T1",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "OFFA T/S",
+  "feeder_33": "OFFA /OKUKU 33KV FEEDER",
+  "feeder_11": "OKUKU TOWNSHIP 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a2940ff"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "TSONGA INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "30MVA",
+  "transmission_station": "JEBBA T/S",
+  "feeder_33": "JEBBA BACITA 33KV FEEDER",
+  "feeder_11": "TSONGA 2 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294100"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA AKOBO INJ. S/S",
+  "transformer_capacity_T/S": "",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "ADOGBA 33kV FEEDER",
+  "feeder_11": "AKOBO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294101"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IBADAN ROAD T1, 7.5MVA INJ. S/S",
+  "transformer_capacity_T/S": "T2 30MVA",
+  "transmission_station": "T/S IJEBU-ODE 132KV",
+  "feeder_33": "IJEBU ODE 33KV FEEDER",
+  "feeder_11": "GRA IJEBU 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294102"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2, IBADAN ROAD 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T2, 30MVA",
+  "transmission_station": "IJEBU-ODE T/S",
+  "feeder_33": "IJEBU ODE 33KV FEEDER",
+  "feeder_11": "FOLAGBADE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294103"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA INTERCHANGE ISS",
+  "transformer_capacity_T/S": "T1 100MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "EXPRESS 33kV FEEDER",
+  "feeder_11": "ODO ONA ELEWE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294104"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OJOKU INJ. S/S T1 7.5MVA",
+  "transformer_capacity_T/S": "30MVA",
+  "transmission_station": "OFFA T/S",
+  "feeder_33": "LAMODI 33KV FEEDER",
+  "feeder_11": "OJOKU 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294105"
+  },
+  "disco": "OFF",
+  "injection_substation": "OJOKU INJ. S/S T1 7.5MVA",
+  "transformer_capacity_T/S": "30MVA",
+  "transmission_station": "OFFA T/S",
+  "feeder_33": "LAMODI 33KV FEEDER",
+  "feeder_11": "OMUARAN OWODE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294106"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "TSONGA INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "30MVA",
+  "transmission_station": "JEBBA T/S",
+  "feeder_33": "JEBBA BACITA 33KV FEEDER",
+  "feeder_11": "TSONGA 3 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294107"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ASA DAM INJ. S/S 1 X 15MVA",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "CHALLENGE INDUSTRIAL 33KV FEEDER",
+  "feeder_11": "GANMO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294108"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "MOKWA INJ. S/S 7.5MVA",
+  "transformer_capacity_T/S": "30MVA",
+  "transmission_station": "JEBBA T/S",
+  "feeder_33": "MOKWA 33KV FEEDER",
+  "feeder_11": "KAINJI 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294109"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ELEWERAN 15MVA T1 INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "132KV T/S NEW ABEOKUTA",
+  "feeder_33": "ELEWERAN 33KV FEEDER",
+  "feeder_11": "ODEDA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29410a"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IKIRE INJ. S/S T1 7.5MVA",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "IKIRE/WASIMI 33KV FEEDER",
+  "feeder_11": "APOMU 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29410b"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T2, 7.5MVA ILORA INJ. S/S",
+  "transformer_capacity_T/S": "T1, 45MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "OYO 33kV FEEDER",
+  "feeder_11": "SANGA 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29410c"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "GBONGAN INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "30MVA T1",
+  "transmission_station": "ILE IFE T/S",
+  "feeder_33": "IKIRE/WASIMI 33KV FEEDER",
+  "feeder_11": "GBONGAN 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29410d"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA NISER INJ. S/S",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "UI/NISER 33kV FEEDER",
+  "feeder_11": "AGBOWO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29410e"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "AGBA DAM INJ. S/S T2 15MVA",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "GANMO T/S",
+  "feeder_33": "GRA ILORIN 33VK FEEDER",
+  "feeder_11": "SABO OKE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29410f"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "IBEREKODO 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "132KV T/S NEW ABEOKUTA",
+  "feeder_33": "ELEWERAN 33KV FEEDER",
+  "feeder_11": "IBEREKODO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294110"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "NAVY QTRS T1 x 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T4 60MVA",
+  "transmission_station": "T/S OTA",
+  "feeder_33": "TOLL GATE 33KV FEEDER",
+  "feeder_11": "AKEJA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294111"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ITELE 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T4 60MVA",
+  "transmission_station": "T/S OTA",
+  "feeder_33": "IJAGBA 33KV FEEDER",
+  "feeder_11": "LAFENWA 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294112"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA SAKUTU INJ. S/S",
+  "transformer_capacity_T/S": "T1, 45MVA",
+  "transmission_station": "ISEYIN T/S",
+  "feeder_33": "OYO 33kV FEEDER",
+  "feeder_11": "ALAAFIN 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294113"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA AKARIGBO INJ. S/S",
+  "transformer_capacity_T/S": "T2, 30MVA",
+  "transmission_station": "SAGAMU T/S",
+  "feeder_33": "NNPC/OGIJO 33KV FEEDER",
+  "feeder_11": "SAGAMU SABO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294114"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1, 15MVA AKARIGBO INJ. S/S",
+  "transformer_capacity_T/S": "T2, 30MVA",
+  "transmission_station": "SAGAMU T/S",
+  "feeder_33": "NNPC/OGIJO 33KV FEEDER",
+  "feeder_11": "SAGAMU EXPRESS 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294115"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA OLORUNSOGO ISS",
+  "transformer_capacity_T/S": "T1 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "NBL 33kV FEEDER",
+  "feeder_11": "AKANRAN  11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294116"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OWODE 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "T/S AGBARA",
+  "feeder_33": "LUSADA 33KV FEEDER",
+  "feeder_11": "ADO-ODO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294117"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OWODE 15MVA INJ. S/S",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "T/S AGBARA",
+  "feeder_33": "LUSADA 33KV FEEDER",
+  "feeder_11": "OTA ILARO ROAD 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294118"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "EGBE INJ. S/S T1 15MVA",
+  "transformer_capacity_T/S": "T2 30MVA",
+  "transmission_station": "OMU-ARAN T/S",
+  "feeder_33": "EGBE 33KV FEEDER",
+  "feeder_11": "EGBE 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a294119"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "SOBI  INJ. S/S 7.5MVA",
+  "transformer_capacity_T/S": "T1, 60MVA",
+  "transmission_station": "ILORIN T/S",
+  "feeder_33": "SOBI POLY 33KV FEEDER",
+  "feeder_11": "GAMBARI 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29411a"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "ORO INJ. S/S T1 7.5MVA",
+  "transformer_capacity_T/S": "T1, 30MVA",
+  "transmission_station": "OMU-ARAN T/S",
+  "feeder_33": "ISANLU-ISIN 33KV FEEDER",
+  "feeder_11": "OGS 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29411b"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 15MVA MOKOLA ISS",
+  "transformer_capacity_T/S": "T2 40MVA",
+  "transmission_station": "JERICHO T/S",
+  "feeder_33": "AGODI LINE 1 33kV FEEDER",
+  "feeder_11": "DUGBE AWOLOWO 11kV FEEDERR",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29411c"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "SAMONDA 15MVA",
+  "transformer_capacity_T/S": "T2 60MVA",
+  "transmission_station": "IBADAN NORTH T/S",
+  "feeder_33": "SAMONDA 33KV FEEDER",
+  "feeder_11": "DUGBE SANGO 11KV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29411d"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "T1 7.5MVA NEW ERUWA ISS",
+  "transformer_capacity_T/S": "T3 60MVA",
+  "transmission_station": "AYEDE T/S",
+  "feeder_33": "ERUWA LANLATE 33kV FEEDER",
+  "feeder_11": "LANLATE 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29411e"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OSOSA, 1X7.5MVA",
+  "transformer_capacity_T/S": "T2 30MVA",
+  "transmission_station": "IJEBU ODE",
+  "feeder_33": "EPE 33kV(IDOWA) FEEDER",
+  "feeder_11": "SABO 11kV FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+},
+{
+  "_id": {
+    "$oid": "671ac8741f4bb6510a29411f"
+  },
+  "disco": "IBADAN",
+  "injection_substation": "OSOSA, 1X7.5MVA",
+  "transformer_capacity_T/S": "T2 30MVA",
+  "transmission_station": "IJEBU ODE",
+  "feeder_33": "EPE 33kV(IDOWA) FEEDER",
+  "feeder_11": "RITE FOOD QUARTERS FEEDER",
+  "ID": "707",
+  "ia": "0",
+  "ib": "0",
+  "ic": "0",
+  "mw": "0",
+  "pf": "0",
+  "va": "0",
+  "vb": "0",
+  "vc": "0"
+}]

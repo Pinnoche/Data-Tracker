@@ -1,5 +1,5 @@
 import Sub from "./Sub";
-function SubStation({ filteredTsData }) {
+function SubStation({ filteredTsData, filteredfeeder33Data, setI_station }) {
 
   return (
     <div className='h-full w-full bg-white text-black p-6'>
@@ -14,7 +14,7 @@ function SubStation({ filteredTsData }) {
             </div>
         </div>}
         <div className='grid grid-cols-2 justify-between mx-24'>
-            <Sub filteredTsData={filteredTsData} />
+            <Sub filteredTsData={filteredTsData} filteredfeeder33Data={filteredfeeder33Data} setI_station={setI_station} />
         </div>
     </div>    
   );
