@@ -9,8 +9,8 @@ function SubStation({ filteredTsData, filteredfeeder33Data, setI_station }) {
             </div>
             <div className='bg-gray-200 flex justify-evenly rounded-md text-center p-1 mb-20 max-w-md font-bold text-sm mx-auto shadow-lg text-[#026487]'>
                 <p>T1, 100MVA</p>
-                <p>T1, 100MVA</p>
-                <p>T1, 100MVA</p>
+                <p>T2, 100MVA</p>
+                <p>T1, 50MVA</p>
             </div>
         </div>}
         <div className='grid grid-cols-2 justify-between mx-24'>

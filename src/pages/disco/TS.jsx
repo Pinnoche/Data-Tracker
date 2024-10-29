@@ -33,7 +33,7 @@ function TS({ datas, setFeeder, ibedcData }) {
                       />
                     </div>
                     <div
-                      className="cursor-pointer "
+                      className="cursor-pointer"
                       onClick={() => handleClick(data.transmission_station)}
                     >
                       <p className="uppercase font-bold">

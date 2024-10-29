@@ -1,14 +1,16 @@
-import { useNavigate } from "react-router-dom"
+import { useNavigate } from "react-router-dom";
 
 function Home() {
   const navigate = useNavigate();
   const gotoDashboard = () => {
-    navigate('/dashboard')
-  }
+    navigate("/dashboard");
+  };
 
   return (
     <div className="mt-16 flex flex-col items-center gap-20 text-white">
-      <h1 className="font-bold text-2xl">Welcome, Please Choose Your Preferred View</h1>
+      <h1 className="font-bold text-2xl">
+        Welcome, Please Choose Your Preferred View
+      </h1>
       <div className="flex gap-32 [&>div]:cursor-pointer text-center">
         <div onClick={gotoDashboard}>
           <img src="/account_circle.png" alt="Dashboard" />
@@ -28,7 +30,7 @@ function Home() {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
-export default Home
+export default Home;
