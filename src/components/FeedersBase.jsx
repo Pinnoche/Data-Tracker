@@ -4,11 +4,26 @@ function FeedersBase({
   trasmission_2,
   trasmission_3,
   trasmission_4,
-  F1,
-  F2,
-  F3,
-  F4,
-  F5,
+  F11,
+  F21,
+  F31,
+  F41,
+  F51,
+  F12,
+  F22,
+  F32,
+  F42,
+  F52,
+  F13,
+  F23,
+  F33,
+  F43,
+  F53,
+  F14,
+  F24,
+  F34,
+  F44,
+  F54,
 }) {
   return (
     <div className="w-full">
@@ -46,11 +61,11 @@ function FeedersBase({
       <div className="h-72 flex justify-between">
         <div className="h-full flex">
           <div className=" h-full pt-20 pb-6 flex flex-col justify-between">
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F2}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F21}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F4}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F41}
             </div>
           </div>
           <div className="h-full pb-12 pt-24 flex flex-col justify-between">
@@ -64,25 +79,25 @@ function FeedersBase({
             <div className="w-8 border-b border-black"></div>
           </div>
           <div className="h-full pt-3 mt-4 flex flex-col justify-between">
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F1}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F11}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F3}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F31}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F5}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F51}
             </div>
           </div>
         </div>
 
         <div className="h-full flex">
           <div className=" h-full pt-20 pb-6 flex flex-col justify-between">
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F2}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F22}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F4}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F42}
             </div>
           </div>
           <div className="h-full pb-12 pt-24 flex flex-col justify-between">
@@ -96,25 +111,25 @@ function FeedersBase({
             <div className="w-8 border-b border-black"></div>
           </div>
           <div className="h-full pt-3 mt-4 flex flex-col justify-between">
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F1}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F12}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F3}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F32}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F5}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F52}
             </div>
           </div>
         </div>
 
         <div className="h-full flex">
           <div className=" h-full pt-20 pb-6 flex flex-col justify-between">
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F2}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F23}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F4}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F43}
             </div>
           </div>
           <div className="h-full pb-12 pt-24 flex flex-col justify-between">
@@ -128,25 +143,25 @@ function FeedersBase({
             <div className="w-8 border-b border-black"></div>
           </div>
           <div className="h-full pt-3 mt-4 flex flex-col justify-between">
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F1}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F13}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F3}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F33}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F5}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F53}
             </div>
           </div>
         </div>
 
         <div className="h-full flex">
           <div className=" h-full pt-20 pb-6 flex flex-col justify-between">
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F2}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F24}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F4}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F44}
             </div>
           </div>
           <div className="h-full pb-12 pt-24 flex flex-col justify-between">
@@ -160,14 +175,14 @@ function FeedersBase({
             <div className="w-8 border-b border-black"></div>
           </div>
           <div className="h-full pt-3 mt-4 flex flex-col justify-between">
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F1}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F14}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F3}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F34}
             </div>
-            <div className="px-4 py-2 bg-green-400 rounded-md max-w-16">
-              {F5}
+            <div className="px-4 py-2 bg-[#D6F2DC] rounded-md max-w-16">
+              {F54}
             </div>
           </div>
         </div>
