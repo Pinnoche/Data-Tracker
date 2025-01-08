@@ -1,22 +1,35 @@
 import Sub from "./Sub";
-function SubStation({ filteredTsData, filteredfeeder33Data, setI_station }) {
-
+function SubStation({
+  filteredTsData,
+  filteredfeeder33Data,
+  setI_station,
+  filteredISub,
+  setF11,
+}) {
   return (
-    <div className='h-full w-full bg-white text-black p-6'>
-        {filteredTsData && <div>
-            <div className='bg-[#026487] max-w-md p-1 rounded-md font-bold text-center my-2 text-sm mx-auto shadow-lg text-white '>
-                MULTI-STATION VIEW
-            </div>
-            <div className='bg-gray-200 flex justify-evenly rounded-md text-center p-1 mb-20 max-w-md font-bold text-sm mx-auto shadow-lg text-[#026487]'>
-                <p>T1, 100MVA</p>
-                <p>T2, 100MVA</p>
-                <p>T1, 50MVA</p>
-            </div>
-        </div>}
-        <div className='grid grid-cols-2 justify-between mx-24'>
-            <Sub filteredTsData={filteredTsData} filteredfeeder33Data={filteredfeeder33Data} setI_station={setI_station} />
+    <div className="h-full w-full bg-white text-black p-6">
+      {filteredTsData && (
+        <div>
+          <div className="bg-[#026487] max-w-md p-1 rounded-md font-bold text-center my-2 text-sm mx-auto shadow-lg text-white ">
+            MULTI-STATION VIEW
+          </div>
+          <div className="bg-gray-200 flex justify-evenly rounded-md text-center p-1 mb-20 max-w-md font-bold text-sm mx-auto shadow-lg text-[#026487]">
+            <p>T1, 100MVA</p>
+            <p>T2, 100MVA</p>
+            <p>T1, 50MVA</p>
+          </div>
         </div>
-    </div>    
+      )}
+      <div className="max-w-8xl">
+        <Sub
+          filteredTsData={filteredTsData}
+          filteredfeeder33Data={filteredfeeder33Data}
+          setI_station={setI_station}
+          filteredISub={filteredISub}
+          setF11={setF11}
+        />
+      </div>
+    </div>
   );
 }
 

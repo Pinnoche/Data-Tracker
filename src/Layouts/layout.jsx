@@ -7,8 +7,8 @@ import disco from "../Data/db.json";
 import ibedc from "../Data/db2.json";
 import TS from "../pages/disco/TS";
 import SideBar from "../components/SideBar";
-// import SubStation from "../pages/disco/SubStation";
-import Sub2 from "../pages/disco/Sub2";
+import SubStation from "../pages/disco/SubStation";
+// import Sub2 from "../pages/disco/Sub2";
 
 function Layout() {
   const datas = disco?.data || [];
@@ -17,16 +17,20 @@ function Layout() {
   const [feeder, setFeeder] = useState(null);
   const [showSideBar, setShowSideBar] = useState(false);
   const [i_station, setI_station] = useState(null);
+  const [f11, setF11] = useState(null);
   const handleSideBar = () => {
     setShowSideBar(!showSideBar);
   };
 
-  const filteredTsData = ibedcData.filter(
-    (tsData) => tsData.transmission_station === feeder
-  );
-  const filteredfeeder33Data = filteredTsData.filter(
-    (feeder_33) => feeder_33.injection_substation === i_station
-  );
+  const filteredTsData = ibedcData
+    .filter((tsData) => tsData.transmission_station === feeder)
+
+  const filteredfeeder33Data = filteredTsData
+    .filter((value) => value.feeder_33 === i_station)
+  
+
+  const filteredISub = filteredfeeder33Data
+    .filter((value) => value.injection_substation === f11)
 
   return (
     <Router>
@@ -55,10 +59,15 @@ function Layout() {
               <Route
                 path="/substation"
                 element={
-                  <Sub2
-                    // filteredTsData={filteredTsData}
-                    // filteredfeeder33Data={filteredfeeder33Data}
-                    // setI_station={setI_station}
+                  // <Sub2
+
+                  // />
+                  <SubStation
+                    filteredTsData={filteredTsData}
+                    filteredfeeder33Data={filteredfeeder33Data}
+                    setI_station={setI_station}
+                    filteredISub={filteredISub}
+                    setF11={setF11}
                   />
                 }
               />
