@@ -28,7 +28,7 @@ npm install
 # Run project
 npm run dev
 ```
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 DMJ (pinnoche)
 
@@ -36,6 +36,6 @@ GitHub: @pinnoche
 
 LinkedIn: (linkedin.com/in/pinnoche)
 
-🪪 License
+## 🪪 License
 
 This project is licensed under the MIT License.
